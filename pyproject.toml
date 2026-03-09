@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rd_test_utils"
+dynamic = ["version"]
+# version = "0.1.0"  # set dynamically scm versioning (based on tags)
+description = "Utilities (e.g. fixtures) and data for CI"
+readme = "README.md"
+requires-python = ">=3.10"
+# "shapely>=2.0.0", "numpy>=1.26.4", "pandas>=2.2.2", "geopandas>=1.0.1", "sqlite3>3.46.0", "numba>=0.51.2"
+# "basic_helpers @ git+https://github.com/you/basic_helpers.git@v0.1.0"
+dependencies = ["basic_helpers"]  # only Numpy, Pandas and custom packages; not Python standard libraries like gzip, zipfile, ...
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov",
+    "ruff",
+]  # use locally with venv pip install -e .[dev]  OR   pip install -e .[dev,typecheck]
+typecheck = ["mypy"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 140
+
+[tool.mypy]
+ignore_missing_imports = true  # i.e. not strict
+warn_return_any = true
+warn_unused_configs = true
+# strict = true
+# additionally Pyright (Pylance) type checking can be enabled in .vscode/settings "python.analysis.typeCheckingMode": "basic"  
+# Pyright setting options: "off | basic | strict"
+
+[tool.setuptools_scm]
+# This enables the automatic versioning from Git tags
