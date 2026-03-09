@@ -1,0 +1,392 @@
+5868331031|#|40|#|Haus Aktiv|#|None|#|None|#|46.866445|#|11.024299|#|Obergurgl|#|None|#|https://www.haus-aktiv.com/|#|None|#|None
+1618185244|#|3|#|None|#|None|#|None|#|46.880260|#|11.082641|#|None|#|None|#|None|#|None|#|None
+4778542622|#|39|#|Zwickauer Hütte - Rifugio Plan|#|None|#|None|#|46.801807|#|11.055035|#|None|#|None|#|zwickauer@13h.de|#|Zwickauer Hütte wusste zum Zeitpunkt des Katalogdruckes noch nicht, ob Pächter wieder hochgehen darf. Pächter ist weiterhin Herr Leitner|#|None
+1136158293|#|4|#|Edelweiss & Gurgl|#|None|#|None|#|46.869743|#|11.026548|#|Obergurgl|#|None|#|https://www.edelweiss-gurgl.com|#|None|#|None
+3682697823|#|40|#|Pension Timmelseck|#|None|#|None|#|46.884980|#|11.038031|#|Obergurgl|#|None|#|None|#|Room from 35 €|#|None
+6727724655|#|603|#|Trabant|#|None|#|None|#|46.801712|#|11.055168|#|None|#|None|#|None|#|None|#|None
+1088385136|#|35|#|Marienkapelle in Poschach|#|None|#|None|#|46.883446|#|11.034263|#|None|#|None|#|None|#|None|#|None
+1604180085|#|4|#|Lohmann|#|None|#|None|#|46.872580|#|11.029068|#|None|#|None|#|None|#|None|#|None
+2951124103|#|12|#|Hotel Alpenaussicht|#|None|#|None|#|46.873962|#|11.029829|#|None|#|None|#|None|#|None|#|None
+127625356|#|9|#|Parkplatz Hochgurglbahn|#|None|#|None|#|46.897873|#|11.039660|#|None|#|None|#|None|#|None|#|None
+91758747|#|4|#|Mein Wurmkogel|#|None|#|None|#|46.894814|#|11.045979|#|None|#|None|#|https://wurmkogel.com/de/|#|None|#|None
+91758753|#|4|#|Olymp|#|None|#|None|#|46.899723|#|11.050975|#|Sölden|#|None|#|None|#|None|#|None
+146978982|#|4|#|Mathiesn|#|None|#|None|#|46.869350|#|11.025700|#|Sölden|#|None|#|None|#|None|#|None
+91758766|#|34|#|Schutzengelkirche|#|None|#|None|#|46.899433|#|11.051977|#|Sölden|#|None|#|None|#|None|#|None
+91758781|#|4|#|Sporthotel Ideal|#|None|#|None|#|46.898071|#|11.050853|#|Sölden|#|None|#|None|#|None|#|None
+73883328|#|9|#|Parkplatz Hochgurglbahn|#|None|#|None|#|46.897644|#|11.040808|#|None|#|None|#|None|#|None|#|None
+2974538438|#|603|#|Martin Scheiber|#|None|#|None|#|46.869755|#|11.025960|#|None|#|None|#|None|#|None|#|None
+3666572491|#|4|#|Josl Mountain Lounging|#|None|#|None|#|46.868811|#|11.024976|#|Sölden|#|None|#|None|#|None|#|None
+3666573526|#|4|#|Schönblick|#|None|#|None|#|46.867537|#|11.024622|#|Sölden|#|None|#|https://www.schoenblick-obergurgl.at/|#|None|#|None
+3666573527|#|40|#|Apartmenthaus Gurglhof|#|None|#|None|#|46.867795|#|11.024549|#|Sölden|#|None|#|None|#|None|#|None
+92335833|#|168|#|Schönwieshütte|#|None|#|None|#|46.847534|#|11.016754|#|Sölden|#|None|#|https://www.schoenwieshuette-obergurgl.at/|#|None|#|None
+1085508826|#|5|#|Parkgarage P2 Zentrum|#|None|#|None|#|46.870785|#|11.026537|#|Sölden|#|None|#|None|#|None|#|None
+2376812771|#|4|#|Das Liebener|#|None|#|None|#|46.884643|#|11.037898|#|None|#|None|#|None|#|None|#|None
+92335844|#|4|#|Enzian|#|None|#|None|#|46.871304|#|11.028672|#|Sölden|#|None|#|https://www.hotelenzian.at/|#|None|#|None
+92022502|#|40|#|Jagdhaus Panorama|#|None|#|None|#|46.869926|#|11.028170|#|Sölden|#|None|#|https://www.panorama-obergurgl.com/|#|None|#|None
+43307752|#|43|#|Essener Hütte (Ruinen)|#|None|#|None|#|46.856487|#|11.086659|#|None|#|None|#|None|#|None|#|None
+92018922|#|4|#|Jenewein|#|None|#|None|#|46.869083|#|11.026159|#|Sölden|#|None|#|https://www.hotel-jenewein.com/|#|None|#|None
+92018927|#|40|#|Mennecke|#|None|#|None|#|46.869602|#|11.024611|#|Sölden|#|None|#|https://www.mennecke-obergurgl.com/|#|None|#|None
+60575987|#|5|#|Obergurgl Festkoglbahn|#|None|#|None|#|46.876179|#|11.033266|#|None|#|None|#|None|#|None|#|None
+92018941|#|4|#|Austria|#|None|#|None|#|46.871010|#|11.028719|#|Sölden|#|None|#|https://www.austria-bellevue.com/|#|None|#|None
+92018942|#|4|#|Gotthard Zeit|#|None|#|None|#|46.869770|#|11.027526|#|Sölden|#|None|#|None|#|None|#|None
+92018964|#|42|#|The Moss|#|None|#|None|#|46.874218|#|11.030579|#|Sölden|#|None|#|None|#|None|#|None
+92018972|#|4|#|Olympia|#|None|#|None|#|46.871845|#|11.029674|#|Sölden|#|None|#|http://www.hotel-olympia-obergurgl.at/|#|None|#|None
+3643611423|#|4|#|Chalet Obergurgl|#|None|#|None|#|46.874534|#|11.030075|#|Sölden|#|None|#|https://www.chaletobergurgl.at/|#|None|#|None
+3643611425|#|4|#|Hotel Alpenaussicht|#|None|#|None|#|46.874113|#|11.030045|#|Sölden|#|None|#|https://www.alpenaussicht.at/|#|None|#|None
+3643611426|#|4|#|Hotel Crystal|#|None|#|None|#|46.875322|#|11.031738|#|Sölden|#|None|#|https://www.thecrystal.at/|#|None|#|None
+3643611427|#|4|#|Hotel Garni Pirchhütt|#|None|#|None|#|46.874452|#|11.031306|#|Sölden|#|None|#|http://www.pirchhuett.at/|#|None|#|None
+3643611428|#|4|#|Hotel Haus Gurgl|#|None|#|None|#|46.873847|#|11.031259|#|Sölden|#|None|#|https://hausgurgl.com/|#|None|#|None
+3643611429|#|40|#|Pension Bergkristall|#|None|#|None|#|46.874139|#|11.031724|#|Sölden|#|None|#|http://www.bergkristall-obergurgl.at/|#|None|#|None
+3643611430|#|40|#|Pension Garni Hohenfels|#|None|#|None|#|46.874735|#|11.031566|#|Sölden|#|None|#|https://www.pension-hohenfels.com/|#|None|#|None
+3643611431|#|40|#|Pension Martinshof|#|None|#|None|#|46.874067|#|11.030796|#|Sölden|#|None|#|http://www.martinshof.biz/|#|None|#|None
+520513834|#|12|#|None|#|None|#|None|#|46.871387|#|11.027933|#|None|#|None|#|None|#|None|#|None
+92018987|#|4|#|Haus Gstrein|#|None|#|None|#|46.894463|#|11.040596|#|Sölden|#|None|#|https://www.gstrein-obergurgl.at/|#|None|#|None
+92018992|#|4|#|Alpenland|#|None|#|None|#|46.870316|#|11.028499|#|Sölden|#|None|#|None|#|None|#|None
+92018994|#|35|#|St. Josef|#|None|#|None|#|46.894081|#|11.040240|#|Sölden|#|None|#|None|#|None|#|None
+92018997|#|40|#|Garni|#|None|#|None|#|46.869507|#|11.025061|#|Sölden|#|None|#|https://www.pension-michael.at/|#|None|#|None
+92019009|#|34|#|St. Johannes Nepomuk|#|None|#|None|#|46.870304|#|11.026395|#|Sölden|#|de:Pfarrkirche Obergurgl|#|None|#|None|#|None
+92019015|#|42|#|Hochfirst|#|None|#|None|#|46.873432|#|11.030854|#|Sölden|#|None|#|None|#|None|#|None
+1602745677|#|4|#|Madeleine|#|None|#|None|#|46.871273|#|11.027730|#|None|#|None|#|https://www.hotel-madeleine.com/|#|None|#|None
+534973276|#|5|#|None|#|None|#|None|#|46.870239|#|11.026518|#|None|#|None|#|None|#|None|#|None
+865142121|#|4|#|Haus Alpenblick|#|None|#|None|#|46.868448|#|11.024443|#|None|#|None|#|None|#|None|#|None
+12923230583|#|3|#|None|#|None|#|None|#|46.868916|#|11.093865|#|None|#|None|#|None|#|None|#|None
+864908165|#|4|#|Gurglhof|#|None|#|None|#|46.868416|#|11.025021|#|None|#|None|#|None|#|None|#|None
+92019107|#|4|#|Alpina|#|None|#|None|#|46.871582|#|11.029579|#|Sölden|#|None|#|http://www.hotelalpina.com|#|None|#|None
+92019120|#|4|#|Bellevue|#|None|#|None|#|46.870529|#|11.028242|#|Sölden|#|None|#|None|#|None|#|None
+4978978739|#|3|#|None|#|None|#|None|#|46.853580|#|11.015882|#|None|#|None|#|None|#|None|#|None
+92019134|#|40|#|Broser|#|None|#|None|#|46.870110|#|11.025977|#|Sölden|#|None|#|None|#|None|#|None
+92019138|#|40|#|Wendlhof|#|None|#|None|#|46.868767|#|11.024434|#|Sölden|#|None|#|https://www.wendlhof.at/|#|None|#|None
+92019142|#|58|#|Wiesental|#|None|#|None|#|46.869286|#|11.024714|#|Sölden|#|None|#|https://www.hotelwiesental.com/|#|None|#|None
+5186805208|#|3|#|None|#|None|#|None|#|46.854254|#|11.015230|#|None|#|None|#|None|#|None|#|None
+92019167|#|40|#|Aste's Hochegg|#|None|#|None|#|46.867752|#|11.025035|#|Sölden|#|None|#|http://www.hochegg.de|#|None|#|None
+974101985|#|603|#|Auguste Piccard|#|None|#|None|#|46.870316|#|11.026973|#|None|#|None|#|None|#|None|#|None
+92019170|#|4|#|Grünerhof|#|None|#|None|#|46.868492|#|11.025742|#|Sölden|#|None|#|https://www.gruenerhof.at/|#|None|#|None
+92019174|#|4|#|Bergwelt|#|None|#|None|#|46.871918|#|11.029069|#|Sölden|#|None|#|None|#|None|#|None
+3666573304|#|3|#|None|#|None|#|None|#|46.854118|#|11.015380|#|None|#|None|#|None|#|None|#|None
+92100608|#|40|#|Dorfblick|#|None|#|None|#|46.969315|#|11.005533|#|Sölden|#|None|#|http://www.dorfblick.net/cms/website.php|#|None|#|None
+122171392|#|40|#|Martina|#|None|#|None|#|46.963493|#|11.011137|#|Sölden|#|None|#|None|#|None|#|None
+92100610|#|4|#|Landhaus Hermann|#|None|#|None|#|46.968945|#|11.003955|#|Sölden|#|None|#|https://www.toni-soelden.at|#|None|#|None
+122171394|#|40|#|Appartement Windau|#|None|#|None|#|46.961948|#|11.011119|#|Sölden|#|None|#|None|#|None|#|None
+122171396|#|40|#|Haus Verena|#|None|#|None|#|46.962944|#|11.011060|#|Sölden|#|None|#|None|#|None|#|None
+1320951816|#|5|#|None|#|None|#|None|#|46.961170|#|11.009422|#|None|#|None|#|None|#|None|#|None
+122818570|#|5|#|None|#|None|#|None|#|46.963467|#|11.014384|#|None|#|None|#|None|#|None|#|None
+122171403|#|40|#|Gustls Ferienhäusl|#|None|#|None|#|46.961205|#|11.011415|#|Sölden|#|None|#|None|#|None|#|None
+92100621|#|40|#|None|#|None|#|None|#|46.967995|#|11.003086|#|Sölden|#|None|#|https://www.dorothee.at|#|None|#|None
+122171405|#|40|#|Haus Ria|#|None|#|None|#|46.962486|#|11.011827|#|Sölden|#|None|#|https://www.haus-ria.at/willkommen.html|#|None|#|None
+92100623|#|40|#|Haus Annabel|#|None|#|None|#|46.975182|#|11.010813|#|Sölden|#|None|#|http://www.pension-annabell.com/|#|None|#|None
+122171418|#|40|#|Bergblick|#|None|#|None|#|46.962147|#|11.012171|#|Sölden|#|None|#|None|#|None|#|None
+122171422|#|40|#|Haus Pia|#|None|#|None|#|46.960812|#|11.012373|#|Sölden|#|None|#|https://www.haus-pia.at/|#|None|#|None
+92100641|#|40|#|Pension Bergkristall|#|None|#|None|#|46.970356|#|11.003143|#|Sölden|#|None|#|None|#|None|#|None
+92100642|#|40|#|Appartement Ferienglück|#|None|#|None|#|46.968742|#|11.005102|#|Sölden|#|None|#|None|#|None|#|None
+122171431|#|40|#|Haus Hohenfels|#|None|#|None|#|46.966972|#|11.010947|#|Sölden|#|None|#|None|#|None|#|None
+122163242|#|4|#|Gasthof Grauer Bär|#|None|#|None|#|46.957611|#|11.009814|#|Sölden|#|None|#|https://www.grauer-baer.com/|#|None|#|None
+92100651|#|40|#|Haus Manfred|#|None|#|None|#|46.973598|#|11.009820|#|Sölden|#|None|#|https://www.haus-manfred.at/index.php/de/|#|None|#|None
+122171434|#|40|#|Haus Windachschlucht|#|None|#|None|#|46.960884|#|11.012141|#|Sölden|#|None|#|None|#|None|#|None
+122171438|#|40|#|Haus Fontana|#|None|#|None|#|46.966461|#|11.011190|#|Sölden|#|None|#|None|#|None|#|None
+122171441|#|40|#|Haus Schwalbennest|#|None|#|None|#|46.966225|#|11.011968|#|Sölden|#|None|#|None|#|None|#|None
+224450609|#|40|#|Pension Olympia|#|None|#|None|#|46.977982|#|11.008106|#|Sölden|#|None|#|None|#|None|#|None
+224450610|#|173|#|Pension Zur alten Mühle|#|None|#|None|#|46.978226|#|11.008648|#|Sölden|#|None|#|None|#|None|#|None
+92100660|#|40|#|Haus Erwin|#|None|#|None|#|46.968227|#|11.003256|#|Sölden|#|None|#|None|#|None|#|None
+122171448|#|4|#|Fiegl|#|None|#|None|#|46.967255|#|11.010860|#|None|#|None|#|None|#|None|#|None
+554274872|#|42|#|die berge|#|None|#|None|#|46.969090|#|11.009598|#|Sölden|#|None|#|https://www.dieberge.at/|#|None|#|None
+122163262|#|40|#|Frühstückspension Maier|#|None|#|None|#|46.959808|#|11.011958|#|Sölden|#|None|#|None|#|None|#|None
+122171456|#|40|#|Landhaus Fiegl|#|None|#|None|#|46.961880|#|11.011407|#|Sölden|#|None|#|None|#|None|#|None
+122171458|#|4|#|Hotel Erhart|#|None|#|None|#|46.963539|#|11.010568|#|Sölden|#|None|#|None|#|None|#|None
+92100676|#|4|#|Hotel Stefan|#|None|#|None|#|46.972084|#|11.009360|#|Sölden|#|None|#|None|#|None|#|None
+122171461|#|40|#|Haus am Wildbach|#|None|#|None|#|46.961960|#|11.012356|#|Sölden|#|None|#|None|#|None|#|None
+1545697351|#|40|#|Casa Bianco|#|None|#|None|#|46.960151|#|11.003976|#|None|#|None|#|None|#|None|#|None
+1545697354|#|40|#|Garni Nadine|#|None|#|None|#|46.959965|#|11.004252|#|None|#|None|#|None|#|None|#|None
+1545697356|#|40|#|Harmonie|#|None|#|None|#|46.959546|#|11.005152|#|None|#|None|#|None|#|None|#|None
+122163276|#|4|#|Bäckelarwirt|#|None|#|None|#|46.958618|#|11.009752|#|Sölden|#|None|#|https://www.baeckelarwirt-soelden.at/|#|None|#|None
+392411214|#|9|#|None|#|None|#|None|#|46.969322|#|11.008116|#|None|#|None|#|None|#|None|#|None
+122171477|#|40|#|Haus Karin|#|None|#|None|#|46.964390|#|11.010492|#|Sölden|#|None|#|None|#|None|#|None
+1545697367|#|40|#|Haus Stefanie|#|None|#|None|#|46.959658|#|11.004943|#|None|#|None|#|None|#|None|#|None
+2419376216|#|40|#|Paulelas|#|None|#|None|#|46.960470|#|11.005754|#|None|#|None|#|None|#|None|#|None
+1545697369|#|40|#|Haus Steinrösl|#|None|#|None|#|46.960069|#|11.004452|#|None|#|None|#|None|#|None|#|None
+122163288|#|40|#|Haus Romana|#|None|#|None|#|46.958378|#|11.010442|#|Sölden|#|None|#|https://www.haus-romana.at/|#|None|#|None
+1545697372|#|168|#|Rauth-Alm|#|None|#|None|#|46.959067|#|11.005909|#|None|#|None|#|http://www.rauthalm.at|#|None|#|None
+92100701|#|40|#|Haus Fernblick|#|None|#|None|#|46.969872|#|11.005747|#|Sölden|#|None|#|None|#|None|#|None
+92100702|#|40|#|None|#|None|#|None|#|46.969219|#|11.004148|#|Sölden|#|None|#|None|#|None|#|None
+92100703|#|40|#|Haus Vier Jahreszeiten|#|None|#|None|#|46.966408|#|11.008787|#|Sölden|#|None|#|None|#|None|#|None
+122163297|#|40|#|Haus Felseneck|#|None|#|None|#|46.957512|#|11.011339|#|Sölden|#|None|#|None|#|None|#|None
+1545697380|#|4|#|Waldcafe|#|None|#|None|#|46.960319|#|11.004174|#|None|#|None|#|https://www.waldcafe.at/|#|None|#|None
+92100712|#|40|#|Haus Barbara|#|None|#|None|#|46.972740|#|11.009745|#|Sölden|#|None|#|None|#|None|#|None
+122581096|#|40|#|Gästehaus Riml|#|None|#|None|#|46.970387|#|11.010257|#|Sölden|#|None|#|None|#|None|#|None
+2419370091|#|40|#|Haus Florian|#|None|#|None|#|46.960065|#|11.006127|#|None|#|None|#|None|#|None|#|None
+122163308|#|40|#|Miramonte|#|None|#|None|#|46.959206|#|11.012022|#|Sölden|#|None|#|https://www.miramonte-soelden.at/|#|None|#|None
+122581103|#|40|#|Garni Eden|#|None|#|None|#|46.970707|#|11.010399|#|Sölden|#|None|#|None|#|None|#|None
+122581104|#|40|#|Haus Jasmin|#|None|#|None|#|46.970673|#|11.010787|#|Sölden|#|None|#|None|#|None|#|None
+742361200|#|35|#|Hochwaldkapelle|#|None|#|None|#|46.999775|#|11.004401|#|None|#|None|#|None|#|None|#|None
+122163314|#|4|#|Sportalm|#|None|#|None|#|46.958439|#|11.012568|#|Sölden|#|None|#|None|#|None|#|None
+122163322|#|40|#|Haus Birkenheim|#|None|#|None|#|46.958141|#|11.013211|#|Sölden|#|None|#|https://www.birkenheim-soelden.at/|#|None|#|None
+700952702|#|9|#|None|#|None|#|None|#|46.912525|#|11.053024|#|None|#|None|#|None|#|None|#|None
+700952703|#|9|#|None|#|None|#|None|#|46.920921|#|11.052778|#|None|#|None|#|None|#|None|#|None
+122163332|#|40|#|Haus Falkner|#|None|#|None|#|46.959476|#|11.012168|#|Sölden|#|None|#|None|#|None|#|None
+122163338|#|40|#|Haus Viertler|#|None|#|None|#|46.959778|#|11.011618|#|Sölden|#|None|#|None|#|None|#|None
+92100748|#|4|#|Hotel: das Zentrum|#|None|#|None|#|46.969765|#|11.010291|#|Sölden|#|None|#|https://www.hotel-zentrum-soelden.at/|#|None|#|None
+122163340|#|40|#|Haus Anton|#|None|#|None|#|46.958290|#|11.010131|#|Sölden|#|None|#|https://www.hausanton.at/|#|None|#|None
+122163343|#|40|#|Haus Kindl|#|None|#|None|#|46.960037|#|11.011745|#|Sölden|#|None|#|None|#|None|#|None
+92100758|#|40|#|Pension Edelweiß|#|None|#|None|#|46.973366|#|11.010041|#|Sölden|#|None|#|https://www.edelweiss-soelden.com/|#|None|#|None
+91758750|#|4|#|Riml|#|None|#|None|#|46.901047|#|11.051575|#|Sölden|#|None|#|https://www.hotel-riml.com/|#|None|#|None
+92100773|#|40|#|Haus Christopherus|#|None|#|None|#|46.968693|#|11.009516|#|Sölden|#|None|#|None|#|None|#|None
+91758769|#|4|#|Angerer Alm|#|None|#|None|#|46.900269|#|11.050861|#|Sölden|#|None|#|https://www.hotel-angereralm.at/|#|None|#|None
+91758778|#|4|#|Laurin|#|None|#|None|#|46.900902|#|11.050200|#|Sölden|#|None|#|http://www.laurin.at/|#|None|#|None
+92100803|#|4|#|Parkhotel Sölden|#|None|#|None|#|46.968845|#|11.008984|#|Sölden|#|None|#|None|#|None|#|None
+2525450436|#|40|#|Leni|#|None|#|None|#|46.962498|#|11.005578|#|None|#|None|#|None|#|None|#|None
+91758788|#|4|#|Top Hotel Hochgurgl|#|None|#|None|#|46.900459|#|11.051976|#|Sölden|#|None|#|None|#|None|#|None
+207483109|#|35|#|Ortskapelle Mariahilf in Granstein|#|None|#|None|#|46.992104|#|11.007213|#|None|#|None|#|None|#|None|#|None
+92100846|#|40|#|Pension Neururer|#|None|#|None|#|46.970036|#|11.003662|#|Sölden|#|None|#|None|#|None|#|None
+88350967|#|5|#|Wilde Parkfläche|#|None|#|None|#|46.963829|#|11.014757|#|None|#|None|#|None|#|None|#|None
+92100866|#|40|#|Haus Magda|#|None|#|None|#|46.965691|#|11.003717|#|Sölden|#|None|#|None|#|None|#|None
+92100874|#|40|#|Landhaus Sepp Santer|#|None|#|None|#|46.967419|#|11.003734|#|Sölden|#|None|#|None|#|None|#|None
+2177104139|#|40|#|Haus Alpenrose|#|None|#|None|#|46.974942|#|11.009923|#|Sölden|#|None|#|https://www.alpenrose-soelden.at/|#|None|#|None
+540707094|#|9|#|None|#|None|#|None|#|46.957272|#|11.007744|#|None|#|None|#|None|#|None|#|None
+2121267479|#|9|#|Supermarkt|#|None|#|None|#|46.954664|#|11.012544|#|None|#|None|#|None|#|None|#|None
+122161459|#|40|#|Leiter|#|None|#|None|#|46.953548|#|11.015683|#|Sölden|#|None|#|None|#|None|#|None
+92100922|#|40|#|Haus Rehwinkl|#|None|#|None|#|46.968231|#|11.002954|#|Sölden|#|None|#|None|#|None|#|None
+2391626048|#|12|#|None|#|None|#|None|#|46.955300|#|11.011183|#|None|#|None|#|None|#|None|#|None
+119294276|#|34|#|Mariä Heimsuchung|#|None|#|None|#|46.967758|#|11.007102|#|Sölden|#|de:Pfarrkirche Sölden|#|None|#|None|#|None
+123742533|#|4|#|Hotel Sunny|#|None|#|None|#|46.973999|#|11.012319|#|Sölden|#|None|#|https://www.sunny-soelden.com/index.php?id=14|#|None|#|None
+122816845|#|230|#|Kleblealm|#|None|#|None|#|46.966686|#|11.027282|#|Sölden|#|None|#|None|#|None|#|None
+92100952|#|4|#|Am Hof|#|None|#|None|#|46.966160|#|11.009453|#|Sölden|#|None|#|None|#|None|#|None
+92100954|#|40|#|Haus Lorenzi|#|None|#|None|#|46.972752|#|11.009447|#|Sölden|#|None|#|https://www.lorenzi-soelden.at/|#|None|#|None
+92100969|#|40|#|Pension Bellevü|#|None|#|None|#|46.967228|#|11.004500|#|Sölden|#|None|#|http://www.bellevue-soelden.at/|#|None|#|None
+92100982|#|40|#|Haus Rolandseck|#|None|#|None|#|46.968472|#|11.005663|#|Sölden|#|None|#|http://www.rolandgstrein.at/|#|None|#|None
+1117313404|#|9|#|Sportplatz|#|None|#|None|#|46.935196|#|11.021635|#|None|#|None|#|None|#|None|#|None
+92101001|#|40|#|Haus Sonja|#|None|#|None|#|46.966904|#|11.004415|#|Sölden|#|None|#|None|#|None|#|None
+9368248722|#|4|#|Secret Solden|#|None|#|None|#|46.959578|#|11.011218|#|None|#|None|#|https://www.the-secret-soelden.com/|#|None|#|None
+92101010|#|40|#|Apart Benedikt|#|None|#|None|#|46.972900|#|11.009829|#|Sölden|#|None|#|None|#|None|#|None
+92101011|#|40|#|Appartement Belmonte|#|None|#|None|#|46.970913|#|11.003942|#|Sölden|#|None|#|None|#|None|#|None
+2079115673|#|4|#|Alpengasthof Grüner|#|None|#|None|#|46.964886|#|11.003334|#|None|#|None|#|None|#|None|#|None
+2079115675|#|40|#|Bellevue|#|None|#|None|#|46.967037|#|11.004778|#|None|#|None|#|None|#|None|#|None
+1079652768|#|40|#|Bairlasshof|#|None|#|None|#|46.992395|#|11.007274|#|None|#|None|#|None|#|None|#|None
+92101027|#|4|#|Hotel Bruno|#|None|#|None|#|46.965118|#|11.003740|#|Sölden|#|None|#|None|#|None|#|None
+92101035|#|40|#|Alpresort Tiroler Adler|#|None|#|None|#|46.969322|#|11.004012|#|Sölden|#|None|#|None|#|None|#|None
+92918195|#|40|#|Appartement Rosmarie|#|None|#|None|#|46.977356|#|11.005569|#|Sölden|#|None|#|None|#|None|#|None
+92101065|#|40|#|Gästehaus Veit Fiegl|#|None|#|None|#|46.965721|#|11.002112|#|Sölden|#|None|#|None|#|None|#|None
+92918227|#|40|#|Haus Sommerstube|#|None|#|None|#|46.978615|#|11.005713|#|Sölden|#|None|#|None|#|None|#|None
+511506912|#|51|#|None|#|None|#|None|#|46.960625|#|11.008352|#|None|#|None|#|None|#|None|#|None
+92918244|#|40|#|Ferienheim Reinhard|#|None|#|None|#|46.978901|#|11.006002|#|Sölden|#|None|#|None|#|None|#|None
+92101094|#|40|#|Pension Klaus|#|None|#|None|#|46.964851|#|11.003867|#|Sölden|#|None|#|None|#|None|#|None
+92101104|#|40|#|Garni Jaqueline|#|None|#|None|#|46.956287|#|11.011290|#|Sölden|#|None|#|https://www.jaqueline-soelden.at/|#|None|#|None
+92101105|#|40|#|Haus Almrausch|#|None|#|None|#|46.977951|#|11.010606|#|Sölden|#|None|#|https://www.almrausch-soelden.com/|#|None|#|None
+655462899|#|40|#|Haus Seeblick|#|None|#|None|#|46.969719|#|11.003885|#|Sölden|#|None|#|None|#|None|#|None
+92918261|#|40|#|Appartement Fender Hof|#|None|#|None|#|46.977528|#|11.004697|#|Sölden|#|None|#|None|#|None|#|None
+92918274|#|40|#|Appartements Schöpf|#|None|#|None|#|46.977882|#|11.005214|#|Sölden|#|None|#|None|#|None|#|None
+926624271|#|4|#|Sölderhof|#|None|#|None|#|46.971290|#|11.010571|#|None|#|None|#|https://www.riml.com/|#|None|#|None
+2634895917|#|4|#|Liebe Sonne|#|None|#|None|#|46.971546|#|11.008717|#|None|#|None|#|None|#|None|#|None
+2492111410|#|3|#|None|#|None|#|None|#|46.909027|#|11.052462|#|None|#|None|#|None|#|None|#|None
+579213882|#|9|#|Lanhaus Hermann|#|None|#|None|#|46.969036|#|11.003738|#|Sölden|#|None|#|None|#|None|#|None
+238502484|#|15|#|Schmuggler|#|None|#|None|#|46.918922|#|11.072250|#|None|#|None|#|None|#|None|#|None
+579211874|#|9|#|Tonis Ferienheim|#|None|#|None|#|46.968964|#|11.005217|#|Sölden|#|None|#|None|#|None|#|None
+5879562862|#|8|#|Café s'Rimele|#|None|#|None|#|46.970274|#|11.008596|#|Sölden|#|None|#|None|#|None|#|None
+10554471029|#|27|#|bike-energy|#|None|#|None|#|46.969307|#|11.008994|#|None|#|None|#|None|#|bike-energy|#|None
+191754900|#|12|#|None|#|None|#|None|#|46.934414|#|11.019152|#|None|#|None|#|None|#|None|#|None
+122426014|#|230|#|Fiegls Gasthaus auf der Windachalm|#|None|#|None|#|46.959732|#|11.063212|#|Sölden|#|None|#|None|#|None|#|None
+238502560|#|9|#|None|#|None|#|None|#|46.905560|#|11.097331|#|None|#|None|#|None|#|None|#|None
+238502561|#|9|#|None|#|None|#|None|#|46.905243|#|11.097353|#|None|#|None|#|None|#|None|#|None
+238502562|#|12|#|None|#|None|#|None|#|46.916965|#|11.043705|#|None|#|None|#|None|#|None|#|None
+238502569|#|12|#|None|#|None|#|None|#|46.917835|#|11.042705|#|None|#|None|#|None|#|None|#|None
+238502570|#|12|#|None|#|None|#|None|#|46.905113|#|11.051488|#|None|#|None|#|None|#|None|#|None
+238502576|#|9|#|None|#|None|#|None|#|46.919201|#|11.072114|#|None|#|None|#|None|#|None|#|None
+9906033373|#|3|#|None|#|None|#|None|#|46.951021|#|11.029879|#|None|#|None|#|None|#|None|#|None
+660587244|#|40|#|Haus Waldesrand|#|None|#|None|#|46.967635|#|11.010939|#|Sölden|#|None|#|None|#|None|#|None
+147639038|#|40|#|Regina's Alpenpanorama|#|None|#|None|#|46.973064|#|11.004091|#|Sölden|#|None|#|https://www.appartement-soelden.com/reginas-alpen-panorama|#|None|#|None
+764179207|#|12|#|None|#|None|#|None|#|46.909389|#|11.042090|#|None|#|None|#|None|#|None|#|None
+141198115|#|40|#|Grüner Hof|#|None|#|None|#|46.963943|#|11.000898|#|Sölden|#|None|#|None|#|None|#|None
+141198116|#|40|#|Haus Lydia|#|None|#|None|#|46.961678|#|11.002199|#|Sölden|#|None|#|None|#|None|#|None
+1545902889|#|40|#|Appartment Kalkus|#|None|#|None|#|46.961093|#|11.003592|#|None|#|None|#|https://www.kalkus-soelden.at/|#|None|#|None
+1545902890|#|40|#|Charly|#|None|#|None|#|46.960965|#|11.003210|#|None|#|None|#|https://www.pension-charly.at/|#|None|#|None
+1545902892|#|4|#|Elizabeth|#|None|#|None|#|46.961712|#|11.003075|#|None|#|None|#|https://www.elisabeth-soelden.com/|#|None|#|None
+1545902893|#|40|#|Franzele|#|None|#|None|#|46.962299|#|11.002714|#|None|#|None|#|None|#|None|#|None
+1545902894|#|4|#|Gasthof Felsenstuberl|#|None|#|None|#|46.961457|#|11.002503|#|None|#|None|#|None|#|None|#|None
+1545902897|#|40|#|Gästehaus Arnold|#|None|#|None|#|46.961412|#|11.002952|#|None|#|None|#|None|#|None|#|None
+1545902898|#|40|#|Haus Alpenblick|#|None|#|None|#|46.961230|#|11.003076|#|None|#|None|#|None|#|None|#|None
+1545902899|#|40|#|Haus Edmund|#|None|#|None|#|46.962593|#|11.002579|#|None|#|None|#|https://www.haus-edmund.at/|#|None|#|None
+1545902901|#|40|#|Haus Erbhof|#|None|#|None|#|46.961981|#|11.002414|#|None|#|None|#|http://www.erbhof-soelden.com/|#|None|#|None
+1545902903|#|40|#|Haus Fr. Kneisl|#|None|#|None|#|46.961373|#|11.003310|#|None|#|None|#|None|#|None|#|None
+1545902904|#|40|#|Haus Montjola|#|None|#|None|#|46.964752|#|11.002712|#|None|#|None|#|https://www.hausmontjola.com/|#|None|#|None
+1545902905|#|40|#|Haus Petra|#|None|#|None|#|46.964387|#|11.002548|#|None|#|None|#|None|#|None|#|None
+1545902906|#|40|#|Haus Sonnenhang|#|None|#|None|#|46.966814|#|11.002139|#|None|#|None|#|https://www.haussonnenhang.com/|#|None|#|None
+141198136|#|40|#|Appartement Belledonne|#|None|#|None|#|46.964226|#|11.001180|#|Sölden|#|None|#|None|#|None|#|None
+1545902908|#|40|#|Innerwald|#|None|#|None|#|46.961793|#|11.002442|#|None|#|None|#|None|#|None|#|None
+1545902909|#|40|#|Juwel|#|None|#|None|#|46.965015|#|11.002614|#|None|#|None|#|http://www.appartements-juwel.at/|#|None|#|None
+141198143|#|35|#|Mariahilfkapelle Innerwald|#|None|#|None|#|46.961529|#|11.002729|#|Sölden|#|None|#|None|#|None|#|None
+1545902911|#|40|#|Gästehaus Marco|#|None|#|None|#|46.965924|#|11.002292|#|None|#|None|#|https://www.gaestehaus-marco.at/|#|None|#|None
+1545902912|#|40|#|Martin|#|None|#|None|#|46.962616|#|11.002956|#|None|#|None|#|None|#|None|#|None
+143051586|#|4|#|Hotel Bergland Sölden|#|None|#|None|#|46.965019|#|11.006962|#|Sölden|#|None|#|None|#|None|#|None
+1545902914|#|4|#|Peter|#|None|#|None|#|46.961011|#|11.002718|#|None|#|None|#|https://www.hotelappart-peter.at/|#|None|#|None
+1545902916|#|4|#|Royal|#|None|#|None|#|46.965180|#|11.002302|#|None|#|None|#|None|#|None|#|None
+1545902917|#|40|#|Sonnhof|#|None|#|None|#|46.962585|#|11.003277|#|None|#|None|#|None|#|None|#|None
+141198150|#|40|#|HEART - Manufaktur Appartements|#|None|#|None|#|46.965034|#|11.001498|#|Sölden|#|None|#|None|#|None|#|None
+1545902919|#|40|#|Sunside|#|None|#|None|#|46.965469|#|11.001962|#|None|#|None|#|https://www.sunside-soelden.at/|#|None|#|None
+1545902920|#|40|#|Haus Wiesenblick|#|None|#|None|#|46.966609|#|11.001791|#|None|#|None|#|https://www.wiesenblick.at/|#|None|#|None
+141198154|#|40|#|Haus Hanni|#|None|#|None|#|46.961964|#|11.002129|#|Sölden|#|None|#|None|#|None|#|None
+141198159|#|40|#|Haus Tannenwald|#|None|#|None|#|46.962273|#|11.002245|#|Sölden|#|None|#|None|#|None|#|None
+863279954|#|9|#|None|#|None|#|None|#|46.909325|#|11.053062|#|None|#|None|#|None|#|None|#|None
+863279956|#|9|#|None|#|None|#|None|#|46.909294|#|11.052617|#|None|#|None|#|None|#|None|#|None
+863279957|#|9|#|None|#|None|#|None|#|46.910244|#|11.053026|#|None|#|None|#|None|#|None|#|None
+863279958|#|9|#|None|#|None|#|None|#|46.910248|#|11.052794|#|None|#|None|#|None|#|None|#|None
+141198174|#|40|#|Residenz Allegra|#|None|#|None|#|46.967613|#|11.004126|#|Sölden|#|None|#|None|#|None|#|None
+1144370016|#|40|#|Karlinger|#|None|#|None|#|46.971849|#|11.003598|#|None|#|None|#|https://www.karlinger-soelden.at/|#|None|#|None
+199658337|#|4|#|Altes Holzhaus|#|None|#|None|#|46.973957|#|11.003020|#|Sölden|#|None|#|https://www.altesholzhaus.com/|#|None|#|None
+199658338|#|40|#|Pension Grünwald|#|None|#|None|#|46.973732|#|11.003417|#|Sölden|#|None|#|https://gruenwald-soelden.at/|#|None|#|None
+2463331183|#|15|#|Wo ist der Wind, wenn er nicht weht|#|None|#|None|#|46.906450|#|11.095787|#|None|#|None|#|None|#|None|#|None
+2463331186|#|15|#|Chair Austria|#|None|#|None|#|46.906525|#|11.095711|#|None|#|None|#|None|#|None|#|None
+2463331189|#|15|#|Chair Italy|#|None|#|None|#|46.906538|#|11.095747|#|None|#|None|#|None|#|None|#|None
+11148270454|#|15|#|Baum der Sehnsucht, Wünsche und Träume|#|None|#|None|#|46.905842|#|11.096746|#|None|#|None|#|None|#|None|#|None
+584459130|#|35|#|Marienkapelle Grünwald|#|None|#|None|#|46.973530|#|11.003268|#|None|#|None|#|None|#|None|#|None
+1291545467|#|35|#|Kreuzkapelle Wohlfahrt|#|None|#|None|#|46.957127|#|11.012787|#|None|#|None|#|None|#|None|#|None
+1291545470|#|35|#|Schmiedhofkapelle|#|None|#|None|#|46.979389|#|11.010859|#|None|#|None|#|None|#|None|#|None
+1291545471|#|35|#|Ortskapelle Kaisers|#|None|#|None|#|46.986019|#|11.014043|#|None|#|None|#|None|#|None|#|None
+9026976650|#|3|#|None|#|None|#|None|#|46.903212|#|11.081021|#|None|#|None|#|None|#|None|#|None
+9512821660|#|4|#|International House Sölden|#|None|#|None|#|46.934862|#|11.025220|#|None|#|None|#|None|#|None|#|None
+11148313539|#|23|#|Offener Kunst Raum Timmelsjoch|#|None|#|None|#|46.905990|#|11.096253|#|None|#|None|#|None|#|None|#|None
+835525576|#|9|#|None|#|None|#|None|#|46.908562|#|11.052458|#|None|#|None|#|None|#|None|#|None
+481371086|#|12|#|None|#|None|#|None|#|46.967697|#|11.007667|#|None|#|None|#|None|#|None|#|None
+2419354577|#|40|#|None|#|None|#|None|#|46.960448|#|11.006132|#|None|#|None|#|None|#|None|#|None
+6333383643|#|12|#|P2|#|None|#|None|#|46.928668|#|11.000576|#|None|#|None|#|None|#|None|#|None
+6333383644|#|12|#|P1|#|None|#|None|#|46.934300|#|11.018839|#|None|#|None|#|None|#|None|#|None
+12497570781|#|4|#|Hotel Garni Hainbacher Hof|#|None|#|None|#|46.975569|#|11.009812|#|None|#|None|#|None|#|None|#|None
+4339446772|#|4|#|None|#|None|#|None|#|46.934699|#|11.025214|#|Sölden|#|None|#|None|#|None|#|None
+92027894|#|40|#|Gästehaus Tauferer|#|None|#|None|#|46.953766|#|11.012238|#|Sölden|#|None|#|None|#|None|#|None
+92027897|#|40|#|Haus Raimund|#|None|#|None|#|46.974827|#|11.005142|#|Sölden|#|None|#|None|#|None|#|None
+11140045821|#|12|#|None|#|None|#|None|#|46.952226|#|11.016988|#|None|#|None|#|None|#|None|#|None
+92027908|#|40|#|Haus Brandlehof|#|None|#|None|#|46.973961|#|11.006254|#|Sölden|#|None|#|http://www.brandlehof.at/|#|None|#|None
+197831686|#|40|#|Appartement La Luna|#|None|#|None|#|46.971333|#|11.003718|#|Sölden|#|None|#|None|#|None|#|None
+3318909961|#|12|#|None|#|None|#|None|#|46.973573|#|11.002254|#|None|#|None|#|None|#|None|#|None
+197831692|#|40|#|Harald|#|None|#|None|#|46.968697|#|11.004054|#|Sölden|#|None|#|None|#|None|#|None
+92027917|#|40|#|Hirschenhof|#|None|#|None|#|46.953415|#|11.011165|#|Sölden|#|None|#|https://www.hirschenhof-soelden.at/|#|None|#|None
+75516972|#|754|#|Freizeit Arena Sölden|#|None|#|None|#|46.969250|#|11.011055|#|Sölden|#|None|#|http://www.freizeit-soelden.com/|#|None|#|None
+12128961594|#|3|#|None|#|None|#|None|#|46.904756|#|11.077459|#|None|#|None|#|None|#|None|#|None
+2177336384|#|4|#|Burghotel Alpenglühn|#|None|#|None|#|46.900187|#|11.040195|#|Obergurgl|#|None|#|None|#|None|#|None
+5547644005|#|9|#|Landhaus Hermann|#|None|#|None|#|46.968763|#|11.003787|#|Sölden|#|None|#|None|#|None|#|None
+141182062|#|4|#|Residenz Tamara|#|None|#|None|#|46.971317|#|11.008464|#|Sölden|#|None|#|None|#|None|#|None
+141182069|#|4|#|Haus Schönblick|#|None|#|None|#|46.976471|#|11.013134|#|Sölden|#|None|#|https://www.haus-schoenblick.com/|#|None|#|None
+141182080|#|4|#|Das Central|#|None|#|None|#|46.966816|#|11.008972|#|Sölden|#|None|#|https://www.central-soelden.com/|#|Alpine . Luxury . Life|#|None
+141182081|#|40|#|Fidelis Riml|#|None|#|None|#|46.975471|#|11.012341|#|Sölden|#|None|#|https://www.fidelis-riml.com/|#|None|#|None
+141182083|#|40|#|Wiesenrand|#|None|#|None|#|46.975693|#|11.012650|#|Sölden|#|None|#|https://www.wiesenrand.at/|#|None|#|None
+141182087|#|40|#|Haus Schultes|#|None|#|None|#|46.963772|#|11.008070|#|Sölden|#|None|#|None|#|None|#|None
+141182089|#|40|#|Gästehaus Prantl|#|None|#|None|#|46.975761|#|11.012255|#|Sölden|#|None|#|https://www.prantl-soelden.at/|#|None|#|None
+141182094|#|40|#|Haus Wachter|#|None|#|None|#|46.976418|#|11.011960|#|Sölden|#|None|#|None|#|None|#|None
+141182095|#|40|#|Gästehaus Arnold|#|None|#|None|#|46.964714|#|11.007213|#|Sölden|#|None|#|None|#|None|#|None
+141182096|#|40|#|Gästehaus Kneisl|#|None|#|None|#|46.966957|#|11.007994|#|Sölden|#|None|#|None|#|None|#|None
+141182102|#|40|#|Haus Werner|#|None|#|None|#|46.963314|#|11.008158|#|Sölden|#|None|#|None|#|None|#|None
+2177336473|#|4|#|sportlers lodge Sölden|#|None|#|None|#|46.953983|#|11.010779|#|Sölden|#|None|#|https://www.alphofsoelden.com/|#|None|#|None
+141182105|#|40|#|Haus Anneliese|#|None|#|None|#|46.961521|#|11.008323|#|Sölden|#|None|#|https://www.hausanneliese.at/|#|None|#|None
+141182106|#|40|#|Haus Markus|#|None|#|None|#|46.962341|#|11.007715|#|Sölden|#|None|#|None|#|None|#|None
+141182107|#|40|#|Haus Arnold Georg|#|None|#|None|#|46.963528|#|11.008116|#|Sölden|#|None|#|None|#|None|#|None
+141182110|#|40|#|Haus Alexander|#|None|#|None|#|46.965034|#|11.007797|#|Sölden|#|None|#|None|#|None|#|None
+141182131|#|4|#|Garberhof|#|None|#|None|#|46.968521|#|11.007451|#|Sölden|#|None|#|None|#|None|#|None
+141182132|#|4|#|Glanzer Homes|#|None|#|None|#|46.967243|#|11.007797|#|Sölden|#|None|#|https://www.glanzer.at/glanzer-homes/soelden|#|None|#|None
+141182136|#|4|#|Hotel Hubertus|#|None|#|None|#|46.966099|#|11.007657|#|Sölden|#|None|#|https://www.hubertus-soelden.com/|#|None|#|None
+141182137|#|40|#|Haus Andre Arnold|#|None|#|None|#|46.966381|#|11.009211|#|Sölden|#|None|#|None|#|None|#|None
+2177336510|#|40|#|Pension Viktoria|#|None|#|None|#|46.954221|#|11.010807|#|Sölden|#|None|#|https://www.viktoria-soelden.at/|#|None|#|None
+141182143|#|4|#|Tyrolerhof|#|None|#|None|#|46.970058|#|11.008246|#|Sölden|#|None|#|https://www.tyrolerhof-soelden.com/|#|None|#|None
+141182146|#|40|#|Scheiber|#|None|#|None|#|46.961426|#|11.008735|#|Sölden|#|None|#|https://www.app-scheiber.at/|#|None|#|None
+141182154|#|40|#|Haus Gerold|#|None|#|None|#|46.962612|#|11.007686|#|Sölden|#|None|#|None|#|None|#|None
+141182157|#|4|#|Sporthotel Alpina|#|None|#|None|#|46.968544|#|11.006964|#|Sölden|#|None|#|None|#|None|#|None
+141182160|#|40|#|Haus Serafin|#|None|#|None|#|46.966801|#|11.007668|#|Sölden|#|None|#|None|#|None|#|None
+141182166|#|4|#|Pension Mina|#|None|#|None|#|46.968395|#|11.007306|#|Sölden|#|None|#|None|#|None|#|None
+141182167|#|42|#|Riders In|#|None|#|None|#|46.967155|#|11.007233|#|Sölden|#|None|#|https://www.ridersin-soelden.at/|#|None|#|None
+141182168|#|40|#|Gurglerhof|#|None|#|None|#|46.963840|#|11.007383|#|Sölden|#|None|#|None|#|None|#|None
+238281984|#|12|#|None|#|None|#|None|#|46.939289|#|11.026888|#|None|#|None|#|None|#|None|#|None
+297778443|#|40|#|None|#|None|#|None|#|46.975014|#|11.010158|#|Sölden|#|None|#|None|#|None|#|None
+88227085|#|54|#|Notbiwak|#|None|#|None|#|46.975189|#|11.070877|#|None|#|None|#|None|#|None|#|None
+224449857|#|40|#|Haus Alois|#|None|#|None|#|46.979610|#|11.008968|#|Sölden|#|None|#|http://www.appartement-alois.at/|#|None|#|None
+75517250|#|40|#|Alois Scheiber|#|None|#|None|#|46.951195|#|11.018748|#|Sölden|#|None|#|None|#|None|#|None
+6624718145|#|3|#|None|#|None|#|None|#|46.924169|#|11.046075|#|None|#|None|#|None|#|None|#|None
+224449863|#|40|#|Haus Hugo|#|None|#|None|#|46.979691|#|11.009205|#|Sölden|#|None|#|https://www.haushugo.at/|#|None|#|None
+3315508562|#|12|#|None|#|None|#|None|#|46.973645|#|11.002750|#|None|#|None|#|None|#|None|#|None
+122428759|#|54|#|Winterraum|#|None|#|None|#|46.981758|#|11.065001|#|None|#|None|#|https://www.hochstubaihuette.at/index.php/unterkunft/winterraum|#|winter: no key needed|#|None
+89253223|#|4|#|Toni’s Ferienheim|#|None|#|None|#|46.969009|#|11.005113|#|Sölden|#|None|#|https://www.toni-soelden.at/|#|6 Appartements, Sauna und Dampfad, Lift|#|None
+9977130364|#|40|#|Berggeist Sölden|#|None|#|None|#|46.952878|#|11.010611|#|Sölden|#|None|#|https://www.berggeist-soelden.at/|#|None|#|None
+700951934|#|9|#|None|#|None|#|None|#|46.911324|#|11.052855|#|None|#|None|#|None|#|None|#|None
+1294620051|#|5|#|None|#|None|#|None|#|46.960880|#|11.009434|#|None|#|None|#|None|#|None|#|None
+5348881863|#|4|#|Hotel Dominic|#|None|#|None|#|46.970726|#|11.008496|#|None|#|None|#|None|#|None|#|None
+92100039|#|40|#|Haus Gabriella|#|None|#|None|#|46.973698|#|11.009483|#|Sölden|#|None|#|https://www.hausgabriela.at/|#|None|#|None
+5348881865|#|40|#|Gletscherblick|#|None|#|None|#|46.971065|#|11.008490|#|None|#|None|#|None|#|None|#|None
+9420099017|#|23|#|Passo del Rombo|#|None|#|None|#|46.905166|#|11.096879|#|None|#|None|#|https://www.timmelsjoch.com/|#|None|#|None
+92272094|#|331|#|Maria-Hilf-Kapelle|#|None|#|None|#|46.937401|#|11.027823|#|Sölden|#|None|#|None|#|None|#|None
+92100070|#|40|#|Haus Amaris am See|#|None|#|None|#|46.968288|#|11.003882|#|Sölden|#|None|#|None|#|None|#|None
+92100084|#|40|#|Sonnenvilla Anna|#|None|#|None|#|46.971024|#|11.010135|#|Sölden|#|None|#|https://www.liebesonne.at/zimmer-preise/sonnenvilla-anna/zimmer-preise-sonnenvilla-anna|#|None|#|None
+70123003|#|9|#|None|#|None|#|None|#|46.904667|#|11.096524|#|None|#|None|#|None|#|None|#|None
+1085599235|#|9|#|None|#|None|#|None|#|46.939907|#|11.026771|#|None|#|None|#|None|#|None|#|None
+92100101|#|40|#|Haus Crystal|#|None|#|None|#|46.966660|#|11.001469|#|Sölden|#|None|#|None|#|None|#|None
+1375008333|#|97|#|Söldenkogel - Gipfelkreuz|#|None|#|None|#|46.977626|#|11.038127|#|None|#|None|#|None|#|None|#|None
+11751429712|#|40|#|The Peak Hotel|#|None|#|None|#|46.973919|#|11.003613|#|None|#|None|#|None|#|None|#|None
+9962114652|#|40|#|Pension Bergsee|#|None|#|None|#|46.952504|#|11.011622|#|Sölden|#|None|#|https://www.soelden.com/de/unterkuenfte/pensionen/pension-bergsee.ad-1076.html|#|None|#|None
+92100192|#|794|#|Berghof Sölden - anno 1588|#|None|#|None|#|46.969688|#|11.005383|#|Sölden|#|en:Berghof (Sölden)|#|http://www.berghof-soelden.com/|#|None|#|None
+92100194|#|40|#|Haus Sonnenbichl|#|None|#|None|#|46.964043|#|11.004218|#|Sölden|#|None|#|None|#|None|#|None
+92100209|#|40|#|Haus Ulrich|#|None|#|None|#|46.971050|#|11.009826|#|Sölden|#|None|#|https://www.hausulrich.at/|#|None|#|None
+207457909|#|4|#|Hotel Regina|#|None|#|None|#|46.961048|#|11.008646|#|Sölden|#|None|#|https://www.hotel-regina.com/|#|None|#|None
+207457920|#|4|#|Panoramablick|#|None|#|None|#|46.968884|#|11.004346|#|Sölden|#|None|#|https://www.panoramablick-soelden.at|#|None|#|None
+864104086|#|4|#|Hotel Vaya|#|None|#|None|#|46.967171|#|11.008154|#|Sölden|#|None|#|https://www.vayaresorts.com/hotel/vaya-soelden/|#|None|#|None
+1144366750|#|40|#|Falkner|#|None|#|None|#|46.971175|#|11.004723|#|None|#|None|#|None|#|None|#|None
+1144366762|#|4|#|Haus Seppl|#|None|#|None|#|46.972336|#|11.003875|#|None|#|None|#|https://www.appartement-seppl-soelden.at/|#|None|#|None
+1144366773|#|4|#|Pension Wieser|#|None|#|None|#|46.972620|#|11.003920|#|None|#|None|#|https://hotel-wieser.com/|#|None|#|None
+92100293|#|40|#|Haus Seeblick|#|None|#|None|#|46.969719|#|11.003719|#|Sölden|#|None|#|None|#|None|#|None
+194832085|#|12|#|None|#|None|#|None|#|46.972221|#|11.010421|#|None|#|None|#|None|#|None|#|None
+1144366809|#|40|#|Rangger|#|None|#|None|#|46.971040|#|11.004701|#|Sölden|#|None|#|http://www.kraxner.com/rangger/Default1.htm|#|None|#|None
+2630993636|#|8|#|Glanz & Glory|#|None|#|None|#|46.967293|#|11.007759|#|None|#|None|#|None|#|None|#|None
+837611236|#|3|#|None|#|None|#|None|#|46.905131|#|11.097442|#|None|#|None|#|None|#|None|#|None
+84526830|#|39|#|Brunnenkogelhaus|#|None|#|None|#|46.947365|#|11.048750|#|Sölden|#|de:Brunnenkogelhaus|#|http://brunnenkogel.schutz.haus|#|None|#|None
+84526831|#|39|#|Hochstubaihütte|#|None|#|None|#|46.981678|#|11.064658|#|Sölden|#|de:Hochstubaihütte|#|http://www.hochstubaihuette.at|#|Die Hochstubaihütte ist die höchstgelegene Hütte des DAV in den Stubaier Alpen und die dritt-höchstgelegene Hütte Österreichs. Durch ihre Höhe und die damit einhergehenden Schneebedingungen ist sie nur von Juni bis September geöffnet.|#|None
+92100339|#|40|#|Haus Innsbruck|#|None|#|None|#|46.965675|#|11.009856|#|Sölden|#|None|#|None|#|None|#|None
+2460768003|#|3|#|None|#|None|#|None|#|46.959959|#|11.059474|#|None|#|None|#|None|#|None|#|None
+9977128712|#|40|#|Pension Pitze|#|None|#|None|#|46.952704|#|11.010342|#|Sölden|#|None|#|https://www.pension-pitze.at/|#|None|#|None
+122124049|#|40|#|Haus Christian|#|None|#|None|#|46.974052|#|11.010198|#|Sölden|#|None|#|http://www.unterkunft-in-soelden.at/|#|None|#|None
+92100376|#|40|#|Haus Alois|#|None|#|None|#|46.971180|#|11.005400|#|Sölden|#|None|#|http://www.appartement-alois.at|#|None|#|None
+122124056|#|40|#|Pension Mirabell|#|None|#|None|#|46.974682|#|11.010266|#|Sölden|#|None|#|None|#|None|#|None
+122124059|#|4|#|Sportpension Carinthia|#|None|#|None|#|46.974476|#|11.010202|#|Sölden|#|None|#|https://www.sportpension.at/|#|None|#|None
+122124068|#|40|#|Haus Tanja|#|None|#|None|#|46.974636|#|11.010614|#|Sölden|#|None|#|https://www.haustanja.com|#|None|#|None
+122124075|#|40|#|Haus Astoria|#|None|#|None|#|46.975056|#|11.008589|#|Sölden|#|None|#|https://www.astoria-soelden.at/|#|None|#|None
+122124078|#|40|#|Haus Isabell|#|None|#|None|#|46.974419|#|11.010531|#|Sölden|#|None|#|None|#|None|#|None
+122124079|#|40|#|Haus Sonnenheim|#|None|#|None|#|46.975529|#|11.009143|#|Sölden|#|None|#|https://www.sonnenheim-soelden.at/|#|None|#|None
+122124080|#|40|#|Haus Bernadette|#|None|#|None|#|46.974606|#|11.009934|#|Sölden|#|None|#|None|#|None|#|None
+122158895|#|40|#|Haus Wolfgang|#|None|#|None|#|46.954449|#|11.010573|#|Sölden|#|None|#|https://www.gaestehaus-wolfgang.at/|#|None|#|None
+122158898|#|40|#|Haus an der Gletscherstrasse|#|None|#|None|#|46.954510|#|11.010286|#|Sölden|#|None|#|https://www.bergfreunde-soelden.at/|#|None|#|None
+122124085|#|40|#|Haus Morandell|#|None|#|None|#|46.975330|#|11.010133|#|Sölden|#|None|#|http://www.morandell-soelden.at/|#|None|#|None
+496342838|#|4|#|ALP deluxe|#|None|#|None|#|46.969986|#|11.009627|#|Sölden|#|None|#|None|#|None|#|None
+75636546|#|18|#|Camping Sölden|#|None|#|None|#|46.957424|#|11.011950|#|Sölden|#|None|#|https://www.camping-soelden.com/|#|None|#|None
+92100421|#|230|#|Alpengasthof Sonneck|#|None|#|None|#|46.935894|#|11.003380|#|Sölden|#|None|#|https://www.alpengasthof-sonneck.at/|#|None|#|None
+92100426|#|40|#|Apart Arno|#|None|#|None|#|46.971146|#|11.005634|#|Sölden|#|None|#|https://www.apart-arno.at/|#|None|#|None
+92100430|#|40|#|Appartement Bichl|#|None|#|None|#|46.971382|#|11.003416|#|Sölden|#|None|#|https://www.bichl-soelden.at/|#|None|#|None
+92100433|#|40|#|Stabelealm|#|None|#|None|#|46.952557|#|11.028593|#|Sölden|#|None|#|None|#|None|#|None
+92100443|#|40|#|Vizensn Living - Zimmer & Apart|#|None|#|None|#|46.974125|#|11.011495|#|Sölden|#|None|#|https://www.vizensn.at|#|None|#|None
+148746077|#|12|#|None|#|None|#|None|#|46.900639|#|11.050481|#|None|#|None|#|None|#|None|#|None
+6613626725|#|8|#|Cafe Pusteblume|#|None|#|None|#|46.967490|#|11.009796|#|Sölden|#|None|#|https://www.soelden.gv.at/pusteblume/|#|None|#|None
+148746086|#|12|#|None|#|None|#|None|#|46.901192|#|11.049901|#|None|#|None|#|None|#|None|#|None
+9962104681|#|40|#|Pension Willy|#|None|#|None|#|46.952405|#|11.011480|#|Sölden|#|None|#|https://www.soelden.com/de/unterkuenfte/ferienwohnungen/pension-willy.ad-867.html|#|None|#|None
+91610989|#|40|#|Talhütte Zwieselstein|#|None|#|None|#|46.939228|#|11.026993|#|Sölden|#|de:Talhütte Zwieselstein|#|None|#|None|#|None
+1035751279|#|12|#|None|#|None|#|None|#|46.969200|#|11.005271|#|None|#|None|#|None|#|None|#|None
+92100464|#|40|#|Appartement Christl|#|None|#|None|#|46.972057|#|11.003647|#|Sölden|#|None|#|None|#|None|#|None
+122896246|#|230|#|Stallwiesalm|#|None|#|None|#|46.967110|#|11.023197|#|Sölden|#|None|#|None|#|None|#|None
+92100473|#|40|#|Appt. Almhof|#|None|#|None|#|46.962727|#|11.005232|#|Sölden|#|None|#|https://www.almhof-soelden.at/|#|None|#|None
+91611003|#|40|#|Pension Maria Theresia|#|None|#|None|#|46.972168|#|11.010926|#|Sölden|#|None|#|None|#|None|#|None
+122212224|#|40|#|FENDER Bed & Breakfast|#|None|#|None|#|46.970543|#|11.009928|#|Sölden|#|None|#|https://www.bb-fender.com/|#|None|#|None
+122212234|#|4|#|Garni Bellaria|#|None|#|None|#|46.969154|#|11.010286|#|Sölden|#|None|#|None|#|None|#|None
+92100494|#|40|#|Gästehaus Emil|#|None|#|None|#|46.965443|#|11.003756|#|Sölden|#|None|#|None|#|None|#|None
+122212241|#|40|#|Haus Klotz|#|None|#|None|#|46.967903|#|11.010950|#|Sölden|#|None|#|None|#|None|#|None
+122212242|#|40|#|Rubin|#|None|#|None|#|46.968254|#|11.010405|#|Sölden|#|None|#|None|#|None|#|None
+91611027|#|58|#|Gasthof Zwieselstein|#|None|#|None|#|46.941051|#|11.028556|#|Sölden|#|None|#|None|#|None|#|None
+2569392020|#|12|#|None|#|None|#|None|#|46.986684|#|11.014731|#|None|#|None|#|None|#|None|#|None
+122212246|#|40|#|Gästehaus Birkenhof|#|None|#|None|#|46.968998|#|11.009944|#|Sölden|#|None|#|https://www.birkenhof-soelden.at/|#|None|#|None
+91611031|#|4|#|Pension Post|#|None|#|None|#|46.939487|#|11.028017|#|Sölden|#|None|#|None|#|None|#|None
+122212247|#|42|#|Hotel Garni Birkenhof|#|None|#|None|#|46.968933|#|11.010474|#|Sölden|#|None|#|https://www.birkenhof-soelden.at/|#|None|#|None
+122212249|#|40|#|Hotel Garni Berheim|#|None|#|None|#|46.967907|#|11.010274|#|Sölden|#|None|#|None|#|None|#|None
+92100509|#|40|#|Gästehaus Talblick|#|None|#|None|#|46.968586|#|11.004072|#|Sölden|#|None|#|None|#|None|#|None
+11121938340|#|603|#|Denkmal für verunglückten Motorradfahrer|#|None|#|None|#|46.919327|#|11.072388|#|None|#|None|#|None|#|None|#|None
+91611051|#|40|#|Haus Lärchenpark|#|None|#|None|#|46.972378|#|11.010664|#|Sölden|#|None|#|None|#|None|#|None
+91611066|#|40|#|Haus Daniela|#|None|#|None|#|46.972397|#|11.011416|#|Sölden|#|None|#|None|#|None|#|None
+91611067|#|40|#|Gästehaus Dr. Riml|#|None|#|None|#|46.972038|#|11.010586|#|Sölden|#|None|#|https://www.haus-riml.at/|#|None|#|None
+197818300|#|40|#|Andis Almdorf|#|None|#|None|#|46.965542|#|11.001545|#|None|#|None|#|None|#|None|#|None
+91611070|#|4|#|Neue Post|#|None|#|None|#|46.939774|#|11.028020|#|Sölden|#|None|#|None|#|None|#|None
+122171350|#|40|#|Haus Wilhelm|#|None|#|None|#|46.962784|#|11.011567|#|Sölden|#|None|#|None|#|None|#|None
+122171355|#|40|#|Landhaus Erich|#|None|#|None|#|46.964046|#|11.011114|#|Sölden|#|None|#|None|#|None|#|None
+122171356|#|40|#|Haus Gondelblick|#|None|#|None|#|46.963169|#|11.011436|#|Sölden|#|None|#|None|#|None|#|None
+122171360|#|40|#|Granbichlhof|#|None|#|None|#|46.965252|#|11.012613|#|Sölden|#|None|#|None|#|None|#|None
+122427365|#|35|#|Hubertuskapelle|#|None|#|None|#|46.960148|#|11.058407|#|None|#|None|#|None|#|None|#|None
+92100582|#|4|#|Haus Ehrenreichen|#|None|#|None|#|46.972073|#|11.008888|#|Sölden|#|None|#|https://www.ehrenreich-soelden.at/|#|None|#|None
+122171369|#|4|#|Hotel Valentin|#|None|#|None|#|46.960224|#|11.008660|#|Sölden|#|None|#|https://www.hotel-soelden.at/|#|None|#|None
+122171371|#|40|#|Pension Andreas|#|None|#|None|#|46.967014|#|11.011638|#|Sölden|#|None|#|None|#|None|#|None

@@ -1,0 +1,37 @@
+557813973|#|2636|#|Schwalbe|#|None|#|None|#|Sportler|#|None|#|None|#|46.4994088|#|11.3563803|#|pt:AM36-52GD95
+906968453|#|67|#|None|#|None|#|None|#|Coop|#|None|#|None|#|46.067784|#|11.1228028|#|pt:AM11-67HSNT
+1026458237|#|591|#|None|#|None|#|None|#|None|#|None|#|None|#|46.2123613|#|11.0943971|#|pt:AM14-967B3P
+1271504882|#|2422|#|None|#|None|#|None|#|Aesseservice|#|None|#|None|#|46.0715017|#|11.1245274|#|pt:AM11-67SORA
+1286814334|#|222|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1552116|#|11.1034258|#|pt:AM14-46KQLb
+1311009096|#|222|#|None|#|None|#|None|#|AesseService|#|None|#|None|#|46.0620929|#|11.1328192|#|pt:AM11-68136I
+1402449461|#|66|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1407801|#|11.1076961|#|pt:AM14-36EMUP
+2374296503|#|591|#|Distributore Automatico Latte Crudo|#|None|#|None|#|None|#|None|#|None|#|46.0618986|#|11.2383273|#|pt:AM12-640JWS
+2734811879|#|66|#|None|#|None|#|None|#|None|#|None|#|None|#|46.2490645|#|11.1705212|#|pt:AM18-316B7V
+3147425649|#|67|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1001338|#|11.1116729|#|pt:AM11-974015
+4266722737|#|3730|#|None|#|None|#|None|#|Latte Trento Scarl|#|None|#|None|#|46.0547952|#|11.4718457|#|pt:AM13-58FXI2
+5754724120|#|641|#|None|#|None|#|None|#|Coop Trentino|#|None|#|None|#|46.0772074|#|11.1200872|#|pt:AM11-7797I9
+6032323039|#|3443|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0868776|#|11.1054946|#|pt:AM11-861DQ8
+6436135739|#|2636|#|Schwalbe|#|None|#|None|#|CrazyBIKE di PIVA Fabio & C. s.n.c.|#|None|#|None|#|46.0610482|#|11.2410187|#|pt:AM12-55Y70L
+6681130019|#|222|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0391982|#|11.0578697|#|pt:AM11-446D4R
+7106605867|#|641|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4539799|#|11.2665841|#|pt:AM35-16RZEU
+7141385344|#|413|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4217233|#|11.2523977|#|pt:AM32-855TNL
+8264503402|#|3550|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0397537|#|11.23503|#|pt:AM12-447aQ2
+8420326672|#|4342|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4881921|#|11.3181246|#|pt:AM35-49JP6Q
+9291491994|#|591|#|Distributore Automatico Latte Crudo|#|None|#|None|#|None|#|None|#|None|#|46.0937211|#|11.1012707|#|pt:AM11-86LFHO
+9313098983|#|67|#|Salad bar|#|None|#|None|#|Apollo s.r.l|#|https://www.orosalad.com/|#|24/7|#|46.0646256|#|11.1232167|#|pt:AM11-678JON
+10564643536|#|3741|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0986619|#|11.1096487|#|pt:AM11-86ZXYP
+10721688704|#|591|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1255748|#|11.1169172|#|pt:AM14-2768BU
+10971072895|#|379|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0699151|#|11.1205029|#|pt:AM11-67NbJ3
+11050531275|#|3337|#|None|#|None|#|None|#|Peterle|#|None|#|None|#|46.0982934|#|11.1129545|#|pt:AM11-87YU3S
+11162380446|#|413|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0796364|#|11.0404287|#|pt:AM11-73GB6Y
+11379466891|#|359|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0659916|#|11.1026623|#|pt:AM11-66CJKI
+13329003345|#|67|#|None|#|None|#|None|#|None|#|None|#|None|#|46.475239|#|11.318002|#|pt:AM35-39HX6G
+7202902866|#|10945|#|None|#|None|#|None|#|None|#|None|#|None|#|46.5295363|#|11.2496021|#|pt:AM35-75WAHX
+7776248595|#|66|#|None|#|None|#|None|#|None|#|None|#|None|#|47.000076|#|11.4368617|#|pt:BM13-1608LW
+7810735731|#|10952|#|None|#|None|#|None|#|None|#|None|#|None|#|46.9643611|#|11.0081328|#|pt:AM57-7144GA
+9233841501|#|66|#|None|#|None|#|None|#|None|#|None|#|None|#|46.5524582|#|11.2203137|#|pt:AM35-93R4XI
+12526876118|#|66|#|None|#|None|#|None|#|None|#|None|#|None|#|46.9872872|#|11.1149674|#|pt:AM57-87Z37R
+2435775153|#|67|#|None|#|None|#|None|#|None|#|None|#|None|#|46.7098281|#|11.6497461|#|pt:AM61-49Ha38
+2535686926|#|66|#|None|#|None|#|None|#|None|#|None|#|None|#|47.0023337|#|11.5054723|#|pt:BM21-116WAZ
+9291337953|#|413|#|None|#|None|#|None|#|None|#|None|#|None|#|46.6517141|#|11.5730473|#|pt:AM47-84SKZ7
+9874963915|#|444|#|None|#|None|#|None|#|None|#|None|#|None|#|46.7978124|#|11.9449022|#|pt:AM66-27MK0Z

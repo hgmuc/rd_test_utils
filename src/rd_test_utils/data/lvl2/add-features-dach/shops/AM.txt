@@ -1,0 +1,52 @@
+61962807|#|0|#|Resch Market|#|None|#|None|#|Steinegg - Collepietra|#|Peter-Anich-Weg - Via Peter Anich|#|2|#|39053|#|None|#|None|#|46.4839344|#|11.4562787|#|pt:AM36-4777NX
+248051531|#|13|#|Famiglia Cooperativa|#|None|#|None|#|Trento|#|Via per Cognola|#|27|#|None|#|IT|#|Mo-Fr 08:10-12:20,16:00-19:00; We,Sa 08:10-12:20|#|46.0706912|#|11.1396505|#|pt:AM11-68QAKE
+260572280|#|13|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.2730677|#|11.4160248|#|pt:AM19-554BHH
+260572396|#|2|#|Panificio Tarter|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.2729217|#|11.4159407|#|pt:AM19-553XHB
+260572772|#|13|#|Alimentari Cavada|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.2737428|#|11.4194903|#|pt:AM19-556AOI
+261086639|#|4957|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-Sa 08:00-12:00,16:00-19:00; Th 08:00-12:00|#|46.2815749|#|11.4346627|#|pt:AM19-56T8HQ
+268421805|#|10574|#|Coop|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0854316|#|11.215569|#|pt:AM12-73XAO4
+268786332|#|15|#|Trentina cicli|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0575964|#|11.2374725|#|pt:AM12-54O2V0
+275995565|#|13|#|Famiglia Cooperativa Romagnano|#|None|#|None|#|None|#|None|#|None|#|38121-38123|#|None|#|Su-Tu, Th-Fr 07:30-12:00, 16:30-19:00; We, Sa 07:30-12:00|#|46.0169011|#|11.1056042|#|pt:AM11-26DDQI
+276248574|#|10575|#|Coop|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-Sa 07:30-19:30; Su 07:30-12:30|#|46.1321475|#|11.2439692|#|pt:AM15-25PH6L
+276248577|#|10576|#|Despar|#|None|#|None|#|Baselga di Piné|#|Via Cesare Battisti|#|100|#|38042|#|None|#|Mo-Sa 07:30-12:30,15:30-19:00|#|46.1344433|#|11.249072|#|pt:AM15-25W7GZ
+276248579|#|10577|#|Conad|#|None|#|None|#|Baselga di Piné|#|Via Cesare Battisti|#|None|#|38042|#|None|#|Mo-Su 07:30-12:30, Mo-Sa 16:00-19:30|#|46.1316692|#|11.2469627|#|pt:AM15-25O2CO
+279144866|#|21|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0820445|#|11.1957784|#|pt:AM12-72NDLK
+288911508|#|10578|#|Famiglia Cooperativa di Povo|#|None|#|None|#|Povo|#|Piazza Giannantonio Manci|#|None|#|38123|#|None|#|Mo-Sa 08:00-20:00|#|46.0662475|#|11.1544583|#|pt:AM11-69D9CV
+292021548|#|13|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-Sa 08:00-20:00|#|46.0768325|#|11.1419313|#|pt:AM11-7883P0
+293868274|#|3054|#|Conad City|#|None|#|None|#|Pergine Valsugana|#|Via Generale Giuseppe Pennella|#|38|#|38057|#|None|#|Mo-Sa 08:00-19:30|#|46.0611105|#|11.2388017|#|pt:AM12-54YEXR
+293868275|#|21|#|Tabaccheria Filippi Edicola|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0608289|#|11.2390579|#|pt:AM12-54XKY8
+295366195|#|2|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0884251|#|11.1302609|#|pt:AM11-885X1B
+297880729|#|0|#|Konsumverein Kurtatsch|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.3132733|#|11.2232268|#|pt:AM18-84DM21
+297880730|#|0|#|Despar|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.3127834|#|11.2215502|#|pt:AM18-83C5a4
+297880731|#|1|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.3126926|#|11.2213569|#|pt:AM18-83BXZR
+302088516|#|13|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1925747|#|11.1612811|#|pt:AM14-79LPQO
+303632542|#|13|#|Prix|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-Tu 08:15-12:30,15:30-19:15; We 08:15-12:30; Th-Sa 08:15-12:30,15:30-19:15|#|46.19526|#|11.1313911|#|pt:AM14-78TK3M
+303632543|#|13|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-We 7:30-19:00; Th 7:30-12:30; Fr-Sa 7:30-19:00|#|46.1933171|#|11.1325889|#|pt:AM14-78NV60
+317062421|#|3017|#|Coop|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0089476|#|11.3023386|#|pt:AM12-18Q8CB
+317916379|#|13|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0610492|#|11.2377096|#|pt:AM12-54Y7VI
+323739361|#|5|#|Spar|#|None|#|None|#|Aldein - Aldino|#|Weiler Eich|#|20|#|39040|#|None|#|Mo-Fr 07:30-12:00 15:30-19:00; Sa 07:30-12:00 15:30-18:00 Su,PH 07:30-12:00|#|46.3671869|#|11.3542713|#|pt:AM33-32QW4Y
+323739991|#|1|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.3671957|#|11.3547041|#|pt:AM33-32QX5T
+323740163|#|0|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.36768|#|11.3537535|#|pt:AM33-32SB3W
+323740823|#|2|#|None|#|None|#|None|#|Aldein|#|Wildeich|#|3|#|39040|#|None|#|None|#|46.3668601|#|11.3501522|#|pt:AM33-31PYY0
+343200175|#|8305|#|Famiglia Cooperativa|#|None|#|None|#|Levico Terme|#|Via di San Taddeo|#|10|#|38056|#|IT|#|None|#|46.0048689|#|11.3363207|#|pt:AM13-11EA63
+343206226|#|15|#|Cetto Lorenzo|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0083617|#|11.3049839|#|pt:AM12-18OJHQ
+356747474|#|13|#|Konsumverein - Famiglia cooperativa|#|Konsumverein|#|None|#|Kurtinig an der Weinstraße - Cortina sulla Strada del Vino|#|St. Martinsplatz - Piazza San Martino|#|4|#|39040|#|None|#|None|#|46.2685192|#|11.2224962|#|pt:AM18-44R50L
+361498946|#|10579|#|None|#|Amort Neumarkt|#|None|#|Neumarkt - Egna|#|Bahnhofstraße - Via Stazione|#|23|#|39044|#|None|#|Mo-Sa 08:00-19:30|#|46.3136837|#|11.2676667|#|pt:AM18-86ETH0
+365499671|#|10580|#|Panificio Sosi|#|None|#|None|#|Trento|#|Via dei Solteri|#|49|#|38121|#|IT|#|None|#|46.0862429|#|11.1218472|#|pt:AM11-77ZPLV
+380947726|#|5187|#|Eurospar|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-Sa 08:00-19:30; Su 09:00-19:00|#|46.0635111|#|11.2325389|#|pt:AM12-6458Kb
+388930804|#|0|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.3000403|#|11.4481852|#|pt:AM19-77Ab7M
+393465498|#|15|#|Asia Bike|#|None|#|None|#|Salorno - Salurn|#|Via Nazionale - Staatsstraße|#|7|#|39040|#|None|#|None|#|46.2423814|#|11.2100125|#|pt:AM18-23MYCU
+394031677|#|13|#|Cooperativa - Konsumverein|#|None|#|None|#|Salorno - Salurn|#|Via Trento - Trientstraße|#|4|#|39040|#|None|#|None|#|46.2414913|#|11.2098275|#|pt:AM18-23KBCF
+394032493|#|13|#|Despar|#|None|#|None|#|Salorno - Salurn|#|Via Nazionale - Staatsstraße|#|1f|#|39040|#|None|#|None|#|46.2421683|#|11.2098816|#|pt:AM18-23MACK
+424687825|#|3054|#|Conad City|#|None|#|None|#|Villazzano|#|Via della Villa|#|22|#|38123|#|None|#|Mo-Sa 07:30-19:30|#|46.0478686|#|11.1454055|#|pt:AM11-48VSW3
+424694377|#|0|#|Piccolo Bazar|#|None|#|None|#|Villazzano|#|Via della Villa|#|11|#|None|#|None|#|Mo-Fr 08:30-12:00,15:30-19:00; Sa 08:30-12:00|#|46.0475936|#|11.1455173|#|pt:AM11-48UZWC
+427941699|#|10581|#|Poli|#|None|#|None|#|Trento|#|Largo Medaglie d'Oro|#|None|#|38122|#|IT|#|Mo-Sa 08:00-19:30|#|46.0580116|#|11.1326|#|pt:AM11-58PB61
+427963799|#|10582|#|Coop Superstore|#|None|#|None|#|Trento|#|Centro direzionale Trento Sud|#|11|#|38123|#|None|#|Mo-Sa 08:00-20:30; Su 08:30-20:00|#|46.0445728|#|11.1296028|#|pt:AM11-47M3bN
+428313985|#|2|#|Ianes|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0514222|#|11.1231539|#|pt:AM11-575bOI
+428314129|#|10583|#|La Bottega del Pane|#|None|#|None|#|Trento|#|Via Alcide De Gasperi|#|29|#|38123|#|None|#|None|#|46.0499499|#|11.1247744|#|pt:AM11-571PRU
+428803370|#|15|#|Sartori Cicli|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1407393|#|11.1077413|#|pt:AM14-36EIUS
+430543937|#|23|#|Bar Pasticceria "Dolce Cuore"|#|None|#|None|#|Trento|#|Piazza Perini Quintilio|#|14|#|38123|#|IT|#|Mo-Sa 06:30-20:00; Su 08:00-20:00|#|46.0067576|#|11.1285775|#|pt:AM11-17JUZK
+430669785|#|10584|#|Sosi|#|None|#|None|#|Trento|#|Galleria Tirrena|#|1|#|38122|#|IT|#|Mo-Sa 07:30-19:00|#|46.0685576|#|11.1213865|#|pt:AM11-67K0KY
+430690363|#|23|#|Momi|#|None|#|None|#|Trento|#|Piazza Cesare Battisti|#|4|#|38122|#|IT|#|None|#|46.0695275|#|11.1234511|#|pt:AM11-67MWP3
+431475184|#|13|#|Famiglia Cooperativa|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|Mo-Fr 08:00-12:30,15:00-19:30; Sa 08:00-12:30|#|46.040605|#|11.1330849|#|pt:AM11-48AH71
+431618063|#|23|#|Pasticceria Bar Mazzoleni|#|None|#|None|#|Trento|#|Via Antonio Stoppani|#|29|#|38121|#|IT|#|Mo-Sa 06:00-19:30; Su 06:15-12:30|#|46.0773477|#|11.120283|#|pt:AM11-779MIO

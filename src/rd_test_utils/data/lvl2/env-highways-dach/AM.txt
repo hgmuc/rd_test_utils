@@ -1,0 +1,43 @@
+AM_26737427|#|2|#|B186|#|2.0|#|60|#|None|#|1|#|None|#|[]|#|line:AM57-916ZN0 66N9 5BNF
+AM_26737954|#|2|#|B186|#|2.0|#|80|#|None|#|0|#|None|#|[]|#|line:BM11-1101I7 AM57-91ZBI6 YKID WFJK VQJV UaJY TAJY SJJb
+AM_26771973|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM57-5203HX 42ZMHQ
+AM_26771975|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM57-42ZMHQ ZGHO
+AM_26772297|#|2|#|B186|#|2.0|#|100|#|None|#|1|#|None|#|[]|#|line:AM57-33118T 23YG7Y XH7R WH7N VH7P UD7X SJ8N
+AM_26772343|#|2|#|B186|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM57-23SJ8N Q89M OL9W O09V
+AM_26772439|#|2|#|B186|#|2.0|#|100|#|None|#|1|#|None|#|[]|#|line:AM57-23CS5O BA59 AB4U 9H49 8U40 873b 7Y42 7N49
+AM_26772485|#|2|#|B186|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM57-23EU62 CS5O
+AM_26772499|#|2|#|B186|#|2.0|#|100|#|None|#|1|#|None|#|[]|#|line:AM57-23O09V MM9D J17O H66V EU62
+AM_26772587|#|2|#|B186|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM57-237N49 7D4H
+AM_26772595|#|2|#|B186|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM57-237D4H 714Y 6W5D
+AM_26772946|#|2|#|B186|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM57-236U5I 6T66 747I 717M 6V7P 6M7K 616U 5L6A 4S5S 455I 3E5B 2W59 0O5G
+AM_26772979|#|4|#|None|#|2.0|#|50|#|None|#|0|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM54-93SH1V RR21 R62G QW2V QL3N
+AM_28047958|#|11|#|SS44bis|#|2.0|#|50|#|no|#|0|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM57-26C09S BOAC AaAS APAU 9IAQ 8bAS 8JAZ 85BA 80BS
+AM_28048449|#|11|#|SS44bis|#|2.0|#|90|#|no|#|0|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM57-2680BS 8ECV 8FDJ 8CE7 7TFM 7DG5 6UGL 51HO 4II8 43IG 3FIN 2SIQ 2BIN 0XI0 08Ha 16a3Hb ZVI7 Z9J0 YYJA YBJI XSJL X6JI W5J5 VBJ3
+AM_39023598|#|2|#|B186|#|2.0|#|80|#|None|#|1|#|None|#|[]|#|line:AM57-91SJJb Q9KF
+AM_39023599|#|2|#|B186|#|2.0|#|60|#|None|#|0|#|None|#|[]|#|line:AM57-91DZM3 COM5 AYLZ 9bLX 9ILa 8QM6 6ZN0
+AM_41793464|#|3|#|L15|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM54-92ENXZ D2XC BOWX ADWL 7GW2 5PVN 2CUC 10TJ
+AM_46613509|#|2|#|B186|#|2.0|#|80|#|None|#|0|#|None|#|[]|#|line:AM57-915BNF 4SNH 3QND 0JMR
+AM_46613599|#|3|#|None|#|2.0|#|100|#|None|#|0|#|Ötztaler Gletscherstraße|#|[6426972]|#|line:AM57-61M096 M09D
+AM_50552184|#|3|#|None|#|2.0|#|50|#|None|#|0|#|Ötztaler Gletscherstraße|#|[6426972]|#|line:AM57-61GQFI ICFD IJFL
+AM_58881055|#|3|#|L240|#|1.0|#|None|#|yes|#|0|#|None|#|[]|#|line:AM57-525KGN 5PH4
+AM_58881056|#|3|#|L240|#|1.0|#|None|#|yes|#|0|#|None|#|[]|#|line:AM57-525bHA 60GW 5YGP
+AM_58881062|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM57-61H5LR GDLL FDLA EWL9 EHLC DZLL DILa CaMX
+AM_61650008|#|3|#|L240|#|1.0|#|None|#|yes|#|0|#|None|#|[]|#|line:AM57-527LHJ 6FGV 5YGP
+AM_61650014|#|3|#|None|#|2.0|#|50|#|None|#|0|#|Ötztaler Gletscherstraße|#|[6426972]|#|line:AM57-61IJFL IDFU H9G5 GRGG FYHH FGHV DMIO 91K2
+AM_61650042|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM57-7122FO 1OFQ
+AM_61650066|#|2|#|B186|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM57-43I619 G62A CN4U BF5A 9M5Q 8W5Z 7D6R 687N 29BM 1GC7 0BCN 33ZICT XSCU XCCX W7D9 VTDB V9DA T8D1 SAD1 P8DB NNDC K6CQ I2C2 GGBS
+AM_79370322|#|1|#|L15|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM54-93P21B PU1b Q52E QL3N
+AM_91758777|#|3|#|L15|#|2.0|#|100|#|None|#|0|#|None|#|[]|#|line:AM54-92F1Y4 ENXZ
+AM_92018944|#|2|#|B186|#|2.0|#|60|#|None|#|0|#|None|#|[]|#|line:AM57-13L86I KT6J
+AM_92019040|#|1|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM54-93SH1V QM1T
+AM_92019052|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM54-93TV37 T829 SX1b SH1V
+AM_92019081|#|4|#|None|#|2.0|#|100|#|None|#|0|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM54-93SJ5b U35a Ub65 WE6W X776 AM57-130W86 4H9B D1CR D5CW D2Cb CVD4 BOCR 91CJ 7FCA 55CD 48C9 40CD 3YCM 40CP 5TCZ 6QDB 8PEC BaFE DCG4 EUHJ FPI5 H6IN IFJA IOJJ IOJN IHJU HMJF HAJC GZJC FMJL FAJL ELJF DNIa DEJ0 DDJ3 DFJB DWJQ F3KH GTL5 HTLH
+AM_92019146|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM54-93U33N TV37
+AM_92019154|#|2|#|B186|#|2.0|#|60|#|None|#|0|#|None|#|[]|#|line:AM57-13KT6J JX6K I56G 9X5A 4L4V
+AM_92019161|#|4|#|None|#|2.0|#|50|#|None|#|0|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM54-93Rb5X SJ5b
+AM_92100317|#|3|#|None|#|1.0|#|50|#|yes|#|0|#|None|#|[]|#|line:AM57-6191K2 8KK9
+AM_92100461|#|3|#|None|#|1.0|#|50|#|yes|#|0|#|None|#|[]|#|line:AM57-618ML8 8TKA
+AM_92968056|#|3|#|None|#|2.0|#|100|#|None|#|0|#|Ötztaler Gletscherstraße|#|[6426972]|#|line:AM57-61Lb8I M096
+AM_100008220|#|2|#|B186|#|2.0|#|50|#|None|#|0|#|None|#|[]|#|line:AM57-711OFQ 61ZNFa V4GB
+AM_119292980|#|4|#|None|#|2.0|#|100|#|None|#|0|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM57-34GSXW GIZH 35DO43 CF65 B97U 7VBZ 74DH 6FFH 61G1 40IH
+AM_119292981|#|4|#|None|#|4.0|#|50|#|None|#|1|#|Timmelsjochstraße - Via Passo del Rombo|#|[15598618]|#|line:AM57-23OTVK P1VK

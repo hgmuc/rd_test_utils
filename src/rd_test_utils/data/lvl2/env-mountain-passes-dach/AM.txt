@@ -1,0 +1,268 @@
+277908783|#|8697|#|Valico di Monte Bondone|#|None|#|None|#|1651|#|46.039291|#|11.058224
+1088575485|#|8697|#|Passo Camponzin|#|None|#|None|#|810|#|46.072111|#|11.077718
+268914134|#|8697|#|Sella di Val Mistai|#|None|#|None|#|1025|#|46.096836|#|11.145708
+274232982|#|8697|#|Passo del Cimirlo|#|None|#|None|#|730|#|46.067601|#|11.184647
+424308125|#|8697|#|Sella della Marzola|#|None|#|None|#|1692|#|46.030402|#|11.185430
+283356778|#|8697|#|Sella di Vignola|#|None|#|None|#|557|#|46.046952|#|11.255096
+4767890912|#|8697|#|Passo del Capriolo|#|None|#|None|#|1221|#|46.095703|#|11.258484
+7733444637|#|8697|#|Passo del Compet|#|None|#|None|#|1383|#|46.039319|#|11.299914
+484297157|#|8697|#|La Bassa|#|None|#|None|#|1834|#|46.057400|#|11.338428
+877597868|#|8697|#|Passo della Portela|#|None|#|None|#|2152|#|46.094033|#|11.365860
+1472061267|#|8697|#|Portellino di Val Porsig / Porcile|#|None|#|None|#|None|#|46.007711|#|11.490993
+289461995|#|8697|#|Selletta dei Castelloni|#|None|#|None|#|1818|#|46.007369|#|11.564777
+290201047|#|8697|#|Passo dell'Agnella|#|None|#|None|#|2008|#|46.011459|#|11.509645
+300442527|#|8697|#|Passo della Forcella|#|None|#|None|#|910|#|46.070871|#|11.592416
+1728975078|#|8697|#|Passo di Val Caldiera|#|None|#|None|#|2063|#|46.010593|#|11.502839
+1729007774|#|8697|#|La Forzeleta|#|None|#|None|#|1540|#|46.049366|#|11.582610
+1744086780|#|8697|#|Porta Incudine|#|None|#|None|#|1860|#|46.011214|#|11.544389
+3259434132|#|8697|#|Porta Molina|#|None|#|None|#|None|#|46.012569|#|11.535917
+9490480997|#|8697|#|Passo della Baia|#|None|#|None|#|1123|#|46.047249|#|11.673806
+11571545655|#|8697|#|Col delle Bagole|#|None|#|None|#|881|#|46.064951|#|11.653564
+264162490|#|8697|#|Passo Croce d'Aune|#|None|#|None|#|1011|#|46.061805|#|11.830080
+741277797|#|8697|#|Passo del Pavione|#|None|#|None|#|2059|#|46.097988|#|11.811845
+1308276639|#|8697|#|Passo Le Vette Grandi|#|None|#|None|#|1994|#|46.090001|#|11.843283
+268263629|#|8697|#|Passo Santel|#|None|#|None|#|1040|#|46.176742|#|11.053135
+782988015|#|8697|#|Passo di San Giacomo|#|None|#|None|#|None|#|46.117727|#|11.002818
+280689977|#|8697|#|Passo Croce|#|None|#|None|#|616|#|46.161454|#|11.134569
+301159888|#|8697|#|Sella Forte Casara|#|None|#|None|#|892|#|46.100480|#|11.148390
+412784225|#|8697|#|Croce delle Serre|#|None|#|None|#|820|#|46.180724|#|11.165397
+289865284|#|8697|#|Passo dei Garofani|#|None|#|None|#|2158|#|46.136414|#|11.388936
+290356681|#|8697|#|Passo del Lago|#|None|#|None|#|2213|#|46.105124|#|11.376981
+503603517|#|8697|#|Passo Polpen-Folpeirn|#|None|#|None|#|1939|#|46.147084|#|11.341974
+564906493|#|8697|#|Passo del Campivèl|#|None|#|None|#|1831|#|46.159359|#|11.340959
+801033982|#|8697|#|Passo Cagnon di sopra|#|None|#|None|#|None|#|46.151295|#|11.378579
+1305199577|#|8697|#|Passo Palù|#|None|#|None|#|2071|#|46.138465|#|11.388617
+1406313407|#|8697|#|Forcella delle Conelle|#|None|#|None|#|2198|#|46.117993|#|11.395259
+1744459998|#|8697|#|Passo Mirafiori|#|None|#|None|#|2047|#|46.194259|#|11.372043
+2894465844|#|8697|#|Passo del Redebus - Sontbisn|#|None|#|None|#|1455|#|46.135975|#|11.323094
+3824923960|#|8697|#|Forcella Sasso Rotto|#|None|#|None|#|2285|#|46.121851|#|11.399484
+274599257|#|8697|#|Passo Manghen|#|None|#|None|#|2047|#|46.173252|#|11.441470
+285006524|#|8697|#|Forcella del Frate|#|None|#|None|#|2230|#|46.167927|#|11.450118
+426869502|#|8697|#|Forcella Ziolera|#|None|#|None|#|2250|#|46.174653|#|11.461536
+453533661|#|8697|#|Forcella Valtrigona|#|None|#|None|#|2112|#|46.135469|#|11.422873
+760355757|#|8697|#|Forcella Montalon|#|None|#|None|#|2133|#|46.182544|#|11.486158
+1340059172|#|8697|#|Forcella d'Ezze|#|None|#|None|#|2270|#|46.129180|#|11.400897
+277383913|#|8697|#|Forcella Valsorda|#|None|#|None|#|2256|#|46.195345|#|11.509601
+471940014|#|8697|#|Forcella Quarazza|#|None|#|None|#|2275|#|46.128878|#|11.574626
+471940186|#|8697|#|Forzelon de Rava|#|None|#|None|#|2397|#|46.124203|#|11.568806
+471945679|#|8697|#|Forcella Ravetta|#|None|#|None|#|2219|#|46.121903|#|11.549197
+471948889|#|8697|#|Forcella Buse Todesche|#|None|#|None|#|2309|#|46.143938|#|11.567907
+471958514|#|8697|#|Forcella Magna|#|None|#|None|#|2117|#|46.164900|#|11.580837
+471958645|#|8697|#|Passo Socede|#|None|#|None|#|2518|#|46.173190|#|11.598959
+803257625|#|8697|#|Passo Cinque Croci|#|None|#|None|#|2023|#|46.175399|#|11.550151
+803824329|#|8697|#|Passo Val Cion|#|None|#|None|#|2076|#|46.189442|#|11.538030
+840891796|#|8697|#|Forcella Orsera|#|None|#|None|#|2305|#|46.134867|#|11.568754
+905073896|#|8697|#|Forcella Tellina|#|None|#|None|#|2185|#|46.163786|#|11.586020
+1471906320|#|8697|#|Passo del Tombolin|#|None|#|None|#|None|#|46.121888|#|11.568908
+1479456796|#|8697|#|Forcella Fierollo|#|None|#|None|#|2246|#|46.114589|#|11.570569
+1770691421|#|8697|#|Forcella Caldenave|#|None|#|None|#|None|#|46.123118|#|11.540565
+1538607731|#|8697|#|Passo Brocon|#|None|#|None|#|1616|#|46.118614|#|11.688537
+1738152137|#|8697|#|Forcella Viosa o Sternozzena|#|None|#|None|#|2019|#|46.133925|#|11.664839
+1738154196|#|8697|#|Forcella Col del vento|#|None|#|None|#|2495|#|46.183751|#|11.611759
+2431229811|#|8697|#|Forcella del Passetto|#|None|#|None|#|2490|#|46.164020|#|11.611593
+4465905335|#|8697|#|Forcella di Val Regana|#|None|#|None|#|2047|#|46.165375|#|11.629627
+4465931525|#|8697|#|Passo dei Diavoli|#|None|#|None|#|2729|#|46.177772|#|11.606758
+6584096152|#|8697|#|Bocchetta dei sassi|#|None|#|None|#|2430|#|46.159250|#|11.608631
+690222827|#|8697|#|Passo Gobbera|#|None|#|None|#|989|#|46.147607|#|11.758482
+846406862|#|8697|#|Forcella Valsorda|#|None|#|None|#|2095|#|46.197056|#|11.744422
+729761516|#|8697|#|Passo di Pietena|#|None|#|None|#|None|#|46.106999|#|11.843547
+741278807|#|8697|#|Forcella di Valon|#|None|#|None|#|2061|#|46.112246|#|11.855789
+742430649|#|8697|#|Passo di Mura|#|None|#|None|#|1867|#|46.150384|#|11.921560
+742430910|#|8697|#|Passo Alvis|#|None|#|None|#|1881|#|46.146780|#|11.922770
+742431767|#|8697|#|Passo della Finestra|#|None|#|None|#|1766|#|46.135540|#|11.909304
+821887146|#|8697|#|Passo Covolada|#|None|#|None|#|1766|#|46.154872|#|11.976720
+1739274931|#|8697|#|Passo del Comedon|#|None|#|None|#|2130|#|46.169887|#|11.949532
+1860619494|#|8697|#|Passo Cereda|#|None|#|None|#|1369|#|46.193048|#|11.905420
+1884179219|#|8697|#|Forcella Pelse|#|None|#|None|#|1847|#|46.166601|#|11.999056
+2202589208|#|8697|#|Forcella Neva|#|None|#|None|#|2148|#|46.160986|#|11.916266
+2945836358|#|8697|#|Forcella Cimonega|#|None|#|None|#|2156|#|46.167489|#|11.927757
+2945836907|#|8697|#|Forcelletta del Leone|#|None|#|None|#|2031|#|46.168913|#|11.932195
+3067018578|#|8697|#|Forcella del Piz di Sagron|#|None|#|None|#|1961|#|46.179435|#|11.927139
+4486171620|#|8697|#|Passo di Forca|#|None|#|None|#|1862|#|46.141566|#|11.994668
+447883850|#|8697|#|Passo della Crocola|#|None|#|None|#|948|#|46.212957|#|11.191853
+336491568|#|8697|#|Zise|#|None|#|None|#|1245|#|46.214270|#|11.218907
+521636481|#|8697|#|Passo della cima|#|None|#|None|#|1350|#|46.233116|#|11.255417
+309879437|#|8697|#|Passo Cisa - Ziss-Sattel|#|None|#|None|#|1448|#|46.294392|#|11.331841
+298672610|#|8697|#|Passo Sadole|#|None|#|None|#|2066|#|46.237317|#|11.584226
+298674456|#|8697|#|Selletta Carteri|#|None|#|None|#|2343|#|46.235652|#|11.592922
+1727863326|#|8697|#|Forcella Di Val Moena|#|None|#|None|#|2287|#|46.201425|#|11.503478
+1727864276|#|8697|#|Forcella Di Lagorai|#|None|#|None|#|2368|#|46.206070|#|11.529565
+1727864582|#|8697|#|Forcella Dei Laghetti|#|None|#|None|#|2488|#|46.206912|#|11.519994
+3191416745|#|8697|#|Forcella Dei Pieroni|#|None|#|None|#|2504|#|46.215900|#|11.544100
+3191416746|#|8697|#|Forcella Delle Sute|#|None|#|None|#|2562|#|46.212400|#|11.535200
+4253841767|#|8697|#|Passo Litegosa|#|None|#|None|#|2261|#|46.230455|#|11.563712
+4579987400|#|8697|#|Forcella Busa della Neve|#|None|#|None|#|None|#|46.201108|#|11.516704
+287669553|#|8697|#|Forcella di Cece|#|None|#|None|#|2393|#|46.262685|#|11.688904
+287670804|#|8697|#|Forcella Dos Caligher|#|None|#|None|#|2190|#|46.259711|#|11.654551
+1894913826|#|8697|#|Forcella di Valmaggiore|#|None|#|None|#|2180|#|46.256473|#|11.665267
+4069786193|#|8697|#|Forcella Paradisi|#|None|#|None|#|2080|#|46.237500|#|11.671209
+5695893124|#|8697|#|Forcella del Cadinon|#|None|#|None|#|2270|#|46.262110|#|11.621450
+5844577809|#|8697|#|Forcella del Valòn|#|None|#|None|#|2480|#|46.263973|#|11.694563
+6220860271|#|8697|#|Forcella del Tabio|#|None|#|None|#|2255|#|46.253437|#|11.682446
+253773420|#|8697|#|Passo Rolle|#|None|#|None|#|1971|#|46.296300|#|11.786321
+287655073|#|8697|#|Passo Colbricon|#|None|#|None|#|1908|#|46.281416|#|11.761550
+287658795|#|8697|#|Forcella Ceremana|#|None|#|None|#|2428|#|46.270047|#|11.744527
+287668608|#|8697|#|Forcella di Bragarolo|#|None|#|None|#|2527|#|46.264215|#|11.721534
+722739841|#|8697|#|Forcella Calaita|#|None|#|None|#|1663|#|46.213858|#|11.796108
+1739243834|#|8697|#|Forcella Valzanchetta|#|None|#|None|#|None|#|46.254843|#|11.746698
+1911858729|#|8697|#|Forcella Scanaiòl|#|None|#|None|#|2093|#|46.224398|#|11.769743
+4316202923|#|8697|#|Forcella Miesnotta|#|None|#|None|#|2290|#|46.257583|#|11.708753
+4316202979|#|8697|#|Forcella Valcigolera|#|None|#|None|#|2420|#|46.262724|#|11.740226
+500342925|#|8697|#|Passo di Pradidali basso|#|None|#|None|#|2658|#|46.258082|#|11.864455
+500342942|#|8697|#|Passo della Fradusta|#|None|#|None|#|2680|#|46.257948|#|11.871594
+559196684|#|8697|#|Passo di Ball|#|None|#|None|#|2443|#|46.246722|#|11.847091
+559197633|#|8697|#|Passo di Val di Roda|#|None|#|None|#|2567|#|46.264491|#|11.839976
+559199921|#|8697|#|Passo Bettega|#|None|#|None|#|2667|#|46.274824|#|11.834701
+559200233|#|8697|#|Passo del Travignolo|#|None|#|None|#|2925|#|46.285811|#|11.828169
+559209887|#|8697|#|Passo Antermarucol|#|None|#|None|#|2334|#|46.287046|#|11.870378
+945276141|#|8697|#|Forcella Porton|#|None|#|None|#|2460|#|46.239835|#|11.846666
+1394209513|#|8697|#|Passo delle Lede|#|None|#|None|#|2695|#|46.250683|#|11.864393
+1819124630|#|8697|#|Forcella Stephen|#|None|#|None|#|2680|#|46.245209|#|11.841334
+1819124631|#|8697|#|Forcella delle Fede|#|None|#|None|#|2550|#|46.241232|#|11.842289
+2023277916|#|8697|#|Passo Bureloni|#|None|#|None|#|2980|#|46.297761|#|11.834692
+2235869454|#|8697|#|Passo di Rosetta|#|None|#|None|#|2567|#|46.266141|#|11.836248
+9921933273|#|8697|#|Passo di Val Strut|#|None|#|None|#|2870|#|46.292437|#|11.830634
+266608825|#|8697|#|Forcella Aurine|#|None|#|None|#|1299|#|46.236572|#|11.976049
+759285952|#|8697|#|Passo Canali|#|None|#|None|#|2467|#|46.255351|#|11.901499
+2199502241|#|8697|#|Forcella d'Oltro|#|None|#|None|#|2094|#|46.223247|#|11.911759
+2201543976|#|8697|#|Forcella delle Mughe|#|None|#|None|#|2244|#|46.233703|#|11.915221
+2202174093|#|8697|#|Forcella Sant'Anna|#|None|#|None|#|2378|#|46.238708|#|11.917579
+2202174099|#|8697|#|Forcella Sprit|#|None|#|None|#|None|#|46.247803|#|11.925927
+2202174103|#|8697|#|Forcella Vani Alti|#|None|#|None|#|2529|#|46.241263|#|11.921087
+2202174107|#|8697|#|Forcella dell'Orsa|#|None|#|None|#|2330|#|46.254623|#|11.908362
+2973035869|#|8697|#|Forcella del Miel|#|None|#|None|#|2520|#|46.266905|#|11.900331
+6537224171|#|8697|#|Passo Predaia|#|None|#|None|#|1250|#|46.326529|#|11.140731
+910393208|#|8697|#|Kreiter Sattel - Sella di Novale al Varco|#|None|#|None|#|382|#|46.384359|#|11.282034
+292074790|#|8697|#|Passo di San Lugano - San-Lugano-Sattel|#|None|#|None|#|1097|#|46.312309|#|11.393044
+872767256|#|8697|#|Jochgrimm - Passo Oclini|#|None|#|None|#|1989|#|46.347316|#|11.451535
+1375243562|#|8697|#|Passo di Lavazè|#|None|#|None|#|1807|#|46.354669|#|11.492736
+3405589304|#|8697|#|Passo di Pramadiccio|#|None|#|None|#|1431|#|46.317710|#|11.490861
+279292686|#|8697|#|Passo Feudo - Satteljoch|#|None|#|None|#|2118|#|46.344650|#|11.559015
+286281507|#|8697|#|Forcella Grande del Latenar - Große Latemarscharte|#|None|#|None|#|2650|#|46.381628|#|11.580515
+291285957|#|8697|#|Reiterjoch - Passo di Pampeago|#|None|#|None|#|1983|#|46.353811|#|11.539829
+1259738897|#|8697|#|Gamsstallscharte - Forcella dei Camosci|#|None|#|None|#|None|#|46.367278|#|11.558857
+1339618854|#|8697|#|Forcella Piccola del Latemar - Kleine Latemarscharte|#|None|#|None|#|2526|#|46.384861|#|11.597402
+269035230|#|8697|#|Passo delle Selle|#|None|#|None|#|2530|#|46.397024|#|11.762657
+419891060|#|8697|#|Passo Juribrutto - Sforcèla Grana|#|None|#|None|#|2387|#|46.351382|#|11.761625
+848995184|#|8697|#|Forcella Vallaccia|#|None|#|None|#|2468|#|46.397052|#|11.710679
+1748647246|#|8697|#|Col de le Palue|#|None|#|None|#|2266|#|46.364577|#|11.761845
+2612991341|#|8697|#|Passo San Pellegrino|#|None|#|None|#|1918|#|46.378358|#|11.791720
+273143871|#|8697|#|Passo Valles|#|None|#|None|#|2032|#|46.338614|#|11.800258
+470704841|#|8697|#|Passo delle Farangole|#|None|#|None|#|2814|#|46.304043|#|11.839558
+470704949|#|8697|#|Forcella Margherita|#|None|#|None|#|2655|#|46.308199|#|11.837119
+470705044|#|8697|#|Forcella Venegia|#|None|#|None|#|2212|#|46.332050|#|11.807464
+946944616|#|8697|#|Passo Mulaz|#|None|#|None|#|2619|#|46.309954|#|11.835382
+946944647|#|8697|#|Forcella Venegiotta|#|None|#|None|#|2299|#|46.326777|#|11.827800
+5198749620|#|8697|#|Passo del Col Becher|#|None|#|None|#|None|#|46.397781|#|11.868078
+2446055093|#|8697|#|Forcella dei Negher|#|None|#|None|#|None|#|46.398735|#|11.900453
+281904348|#|8697|#|Forcella di Brez - Brezer Joch|#|None|#|None|#|1397|#|46.451350|#|11.082478
+503040095|#|8697|#|Giovat di Cloz - Clozner Joch|#|None|#|None|#|1376|#|46.435458|#|11.070670
+5062231617|#|8697|#|Fresnapass - Passo Fresna|#|None|#|None|#|1462|#|46.468283|#|11.017723
+650038946|#|8697|#|Furgglauer Scharte - La Forcolana|#|None|#|None|#|1491|#|46.455487|#|11.212467
+650088558|#|8697|#|Große Scharte - Forcella Grande|#|None|#|None|#|None|#|46.487563|#|11.207097
+650133499|#|8697|#|Kematscharte - Forcella Piccola|#|None|#|None|#|1703|#|46.477089|#|11.212424
+1641022409|#|8697|#|Passo della Mendola - Mendelpass|#|None|#|None|#|1363|#|46.416762|#|11.208329
+61100285|#|8697|#|Nigerpass - Passo Nigra|#|None|#|None|#|1690|#|46.455989|#|11.585886
+29540123|#|8697|#|Passo di Costalunga - Karerpass|#|None|#|None|#|1745|#|46.404280|#|11.608990
+269036807|#|8697|#|Jëuf da Duron - Mahlknechtjoch - Passo Duron|#|None|#|None|#|2204|#|46.497519|#|11.653620
+292751365|#|8697|#|Vaiolonpass - Passo Vajolon|#|None|#|None|#|2550|#|46.428829|#|11.618836
+294852911|#|8697|#|Tschager Joch - Pas da le Coronele - Passo delle Coronelle|#|None|#|None|#|2630|#|46.439838|#|11.619339
+302576039|#|8697|#|Passo Principe - Grasleitenpass|#|None|#|None|#|2601|#|46.474250|#|11.639160
+302576577|#|8697|#|Passo di Antermoia|#|None|#|None|#|2770|#|46.470789|#|11.645676
+302926505|#|8697|#|Sella del Ciampaz|#|None|#|None|#|2280|#|46.419909|#|11.630335
+427618735|#|8697|#|Molignonpass - Passo Molignon|#|None|#|None|#|None|#|46.489186|#|11.639746
+437381065|#|8697|#|Passo delle Zigolade|#|None|#|None|#|2547|#|46.434416|#|11.630880
+448932915|#|8697|#|Passo di Scalieret|#|None|#|None|#|2789|#|46.468179|#|11.645502
+929034593|#|8697|#|Pas de Laussa|#|None|#|None|#|None|#|46.471136|#|11.656348
+1404655287|#|8697|#|Passo Dona|#|None|#|None|#|2516|#|46.476199|#|11.669566
+2386616641|#|8697|#|Passo di Larsec|#|None|#|None|#|2800|#|46.470216|#|11.647965
+297616001|#|8697|#|Sela dal Brunéch|#|None|#|None|#|2420|#|46.437048|#|11.759317
+1446244836|#|8697|#|Forcia Neigra|#|None|#|None|#|2509|#|46.437154|#|11.778355
+2423927189|#|8697|#|Pas de sèn Nicolò - Passo San Nicolò|#|None|#|None|#|2338|#|46.422702|#|11.791322
+3646760151|#|8697|#|Sela de Ciamol|#|None|#|None|#|2354|#|46.445002|#|11.745740
+470651348|#|8697|#|Sforcela de la Marmolèda|#|None|#|None|#|2885|#|46.438764|#|11.840182
+1783037434|#|8697|#|Forca Rossa|#|None|#|None|#|None|#|46.401707|#|11.860253
+2354908889|#|8697|#|Pas Pasche|#|None|#|None|#|2499|#|46.415056|#|11.806019
+2596026312|#|8697|#|Passo Fedaia|#|None|#|None|#|2057|#|46.464024|#|11.862590
+2893701184|#|8697|#|Pas de Ombreta|#|None|#|None|#|2702|#|46.430449|#|11.846420
+3060883532|#|8697|#|Pas de le Cirèle|#|None|#|None|#|2683|#|46.410110|#|11.823617
+3060885633|#|8697|#|Passo di Ombrettola|#|None|#|None|#|2861|#|46.414414|#|11.838592
+3060885652|#|8697|#|Sforcela de Vernel|#|None|#|None|#|2996|#|46.440800|#|11.834000
+3060885653|#|8697|#|Sforcela Del Bachet|#|None|#|None|#|2836|#|46.411900|#|11.840700
+3564946399|#|8697|#|Jouf de Pordoi - Passo Pordoi - Pordoijoch|#|None|#|None|#|2239|#|46.487552|#|11.812193
+503039093|#|8697|#|Passo Castrin - Hofmahdjoch|#|None|#|None|#|1785|#|46.514282|#|11.051003
+1319381346|#|8697|#|Gampenpass - Passo delle Palade|#|None|#|None|#|1518|#|46.529549|#|11.111801
+2065214315|#|8697|#|Schermoossattel - Sella Schermoos|#|None|#|None|#|1450|#|46.590130|#|11.281735
+281071502|#|8697|#|Sela Palacia - Christjoch|#|None|#|None|#|2271|#|46.500715|#|11.678984
+497719767|#|8697|#|Furcela - Rosszahnscharte - Forcella Denti di Terrarossa|#|None|#|None|#|2499|#|46.501322|#|11.637643
+1365263015|#|8697|#|Panidersattel - Passo Pinei|#|None|#|None|#|1437|#|46.580197|#|11.622579
+272316209|#|8697|#|Jeuf de Fascia - Giogo di Fassa|#|None|#|None|#|2297|#|46.504720|#|11.700691
+272338771|#|8697|#|Jouf de Sela - Passo Sella - Sellajoch|#|None|#|None|#|2240|#|46.508069|#|11.767326
+440320208|#|8697|#|Sela de Culac|#|None|#|None|#|2018|#|46.538468|#|11.783397
+245803472|#|8697|#|Passo Campolongo|#|None|#|None|#|1875|#|46.513860|#|11.872367
+271961227|#|8697|#|Forcella Pordoi|#|None|#|None|#|2848|#|46.501765|#|11.812326
+279835760|#|8697|#|Furcela de Ciampëi|#|None|#|None|#|2366|#|46.577037|#|11.837630
+952470876|#|8697|#|Puez Scharte - Forcela de Puez|#|None|#|None|#|2500|#|46.595977|#|11.832080
+1623822123|#|8697|#|Furcela de Cir|#|None|#|None|#|2469|#|46.561132|#|11.815924
+1623822124|#|8697|#|Ju de Frara - Grödner Joch - Passo Gardena|#|None|#|None|#|2121|#|46.549819|#|11.808389
+307294023|#|8697|#|Forcela de Salares|#|None|#|None|#|2283|#|46.545328|#|11.989360
+319258666|#|8697|#|Passo Incisa - Ju d'Inzija|#|None|#|None|#|1938|#|46.529827|#|11.901475
+458838141|#|8697|#|Forcella de Medesc|#|None|#|None|#|2533|#|46.593392|#|11.965053
+1375990769|#|8697|#|Passo Sief - Jou de le Omblíe|#|None|#|None|#|2209|#|46.507664|#|11.955542
+1826357031|#|8697|#|Passo Valparola|#|None|#|None|#|2192|#|46.525111|#|11.997385
+309744555|#|8697|#|Nörderscharte|#|None|#|None|#|2372|#|46.605837|#|11.025880
+894104491|#|8697|#|Gasteiger Sattel - Sella dei Sentieri|#|None|#|None|#|2057|#|46.636490|#|11.459350
+2734283660|#|8697|#|Passo Eores (Halsl)|#|None|#|None|#|1863|#|46.666248|#|11.773955
+3038994323|#|8697|#|Furcela dal'Ega - Wasserscharte - Forcella Mont dal'Ega|#|None|#|None|#|2642|#|46.604258|#|11.784842
+308905694|#|8697|#|Joeljoch|#|None|#|None|#|1725|#|46.622899|#|11.866349
+430921603|#|8697|#|Gömajoch|#|None|#|None|#|2109|#|46.661079|#|11.850490
+430921653|#|8697|#|Jü de Börz - Würzjoch - Passo delle Erbe|#|None|#|None|#|1987|#|46.675111|#|11.814312
+307302700|#|8697|#|Ju de Sant Antone|#|None|#|None|#|2466|#|46.627549|#|11.999439
+514746942|#|8697|#|Langtalerjoch|#|None|#|None|#|3035|#|46.778311|#|11.028588
+515074196|#|8697|#|Gurgler Eisjoch|#|None|#|None|#|3151|#|46.768732|#|11.004120
+4710852608|#|8697|#|Eisjöchl - Passo Gelato|#|None|#|None|#|2895|#|46.755206|#|11.026786
+309708435|#|8697|#|Hochgangscharte - Passo del Valico|#|None|#|None|#|2455|#|46.720906|#|11.083098
+422981693|#|8697|#|Halsljoch - Passo di Lazins|#|None|#|None|#|2808|#|46.721767|#|11.053808
+777368468|#|8697|#|Milchseescharte - Forcella dei Laghi|#|None|#|None|#|2710|#|46.726044|#|11.068316
+777382888|#|8697|#|Falschnaljöchl|#|None|#|None|#|2424|#|46.749538|#|11.084711
+777383540|#|8697|#|Spronserjoch - Forcella Sopranes|#|None|#|None|#|2590|#|46.740030|#|11.085655
+2497599326|#|8697|#|Johannesscharte - Forcella Giovanni|#|None|#|None|#|2871|#|46.743758|#|11.023740
+423065891|#|8697|#|Taufenscharte - Giogo di Quaira|#|None|#|None|#|2230|#|46.716040|#|11.111163
+515675205|#|8697|#|Ulsenjoch - Giogo di Ulsen|#|None|#|None|#|2645|#|46.758298|#|11.101092
+832597050|#|8697|#|Pfitscher Jöchl - Passo di Vizze|#|None|#|None|#|2150|#|46.727252|#|11.102861
+890463943|#|8697|#|Saltauser Joch - Forcella di Saltusio|#|None|#|None|#|2284|#|46.743969|#|11.147330
+2984666210|#|8697|#|Wannser Joch|#|None|#|None|#|2245|#|46.797523|#|11.360600
+1436324794|#|8697|#|Tellerjoch|#|None|#|None|#|2520|#|46.759606|#|11.480202
+1436324936|#|8697|#|Flaggerscharte - Forcella Vallaga|#|None|#|None|#|2436|#|46.770358|#|11.487760
+1446593655|#|8697|#|Durnholzer Jöchl - Forcella di Valdurna|#|None|#|None|#|2235|#|46.753484|#|11.429649
+1624986424|#|8697|#|Traminer Scharte - Forcella Tramin|#|None|#|None|#|2380|#|46.784961|#|11.490777
+2284424067|#|8697|#|Hörtlahner Scharte|#|None|#|None|#|None|#|46.776650|#|11.487310
+252412321|#|8697|#|Fortschellscharte - Forcella di San Cassiano|#|None|#|None|#|2299|#|46.714011|#|11.504277
+482252109|#|8697|#|Lüsener Joch - Passo di Luson|#|None|#|None|#|2008|#|46.711310|#|11.837362
+9366282007|#|8697|#|Kniepass - La Serra|#|None|#|None|#|None|#|46.788868|#|11.871377
+354941787|#|8697|#|Ju de Furćia - Furkelpass - Passo Furcia|#|None|#|None|#|1789|#|46.722914|#|11.968920
+857404451|#|8697|#|Kreuzjoch|#|None|#|None|#|2283|#|46.700302|#|11.998440
+940671676|#|8697|#|Dreifingerscharte|#|None|#|None|#|2330|#|46.708959|#|11.987329
+321173195|#|8697|#|Aperes Ferwalljoch|#|None|#|None|#|2903|#|46.854940|#|11.071770
+514614864|#|8697|#|Königsjoch - Bocchetta del Re|#|None|#|None|#|2825|#|46.863120|#|11.080281
+514738602|#|8697|#|Rotmoosjoch - Boccha di Plan|#|None|#|None|#|3054|#|46.808200|#|11.054949
+514738619|#|8697|#|Hochebenscharte|#|None|#|None|#|None|#|46.831111|#|11.020250
+2454432821|#|8697|#|Grubjoch|#|None|#|None|#|2658|#|46.831537|#|11.121740
+327046670|#|8697|#|Kaindlscharte|#|None|#|None|#|2690|#|46.897633|#|11.201291
+2305591002|#|8697|#|Staudenbergjöchel|#|None|#|None|#|2380|#|46.884932|#|11.240796
+2388720573|#|8697|#|Ratschinger Scharte - Sella di Racines|#|None|#|None|#|2480|#|46.884274|#|11.223121
+102553330|#|8697|#|Jaufenpass - Passo di Monte Giovo|#|None|#|None|#|2094|#|46.839604|#|11.321472
+287348108|#|8697|#|Platschjoch|#|None|#|None|#|1799|#|46.856571|#|11.358607
+1379277879|#|8697|#|Gerölljoch (Gröllerjoch)|#|None|#|None|#|2590|#|46.800572|#|11.396456
+1821668583|#|8697|#|Penser Joch - Passo di Pennes|#|None|#|None|#|2211|#|46.818775|#|11.441254
+2157008907|#|8697|#|Gospeneider Jöchl - Giogo di Caspineto|#|None|#|None|#|2300|#|46.836667|#|11.439109
+307308963|#|8697|#|Valler Jöchl - Passo di Valles|#|None|#|None|#|1932|#|46.846498|#|11.593290
+891961497|#|8697|#|Trenser Joch - Passo di Trens|#|None|#|None|#|2212|#|46.894367|#|11.531106
+13270927727|#|8697|#|Sengesjöchl - Giogo di Senges|#|None|#|None|#|2660|#|46.898694|#|11.585419
+803794171|#|8697|#|Falzarer Joch - Passo di Valzara|#|None|#|None|#|2259|#|46.865196|#|11.682001
+925957937|#|8697|#|Furkelscharte - Forcella di Altafossa|#|None|#|None|#|2445|#|46.880192|#|11.663935
+954530991|#|8697|#|Kiener Scharte|#|None|#|None|#|1741|#|46.838351|#|11.689594
+1138961842|#|8697|#|Seefeldscharte|#|None|#|None|#|2530|#|46.878541|#|11.653298
+3754423023|#|8697|#|Steinlascharte - Forcella di Monte di Sasso|#|None|#|None|#|2576|#|46.890529|#|11.644033
+3754464084|#|8697|#|Paulscharte - Forcella di San Paolo|#|None|#|None|#|2579|#|46.888633|#|11.660627
+472957939|#|8697|#|Passenjoch|#|None|#|None|#|2440|#|46.890855|#|11.764409

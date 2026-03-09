@@ -1,0 +1,9 @@
+3699717814|#|dest|#|3|#|Vezzano$$$Cornetto$$$Costa dei Cavai
+3699718145|#|dest|#|2|#|Vezzano$$$Cornetto
+3699718146|#|dest|#|2|#|Vezzano$$$Costa dei Cavai
+3699718147|#|dest|#|2|#|Lagolo$$$Calavino
+3699718187|#|dest|#|3|#|Lagolo$$$Calavino$$$Costa dei Cavai,Vezzano
+2111257347|#|dest|#|7|#|Prà de Stelar 1:30$$$Stoi del Chegui 2:30$$$Sella della Marzola 3:30$$$Castelet 1:00$$$Fontana dei Gai 1:50$$$Stoi del Chegui 2:30$$$
+2111257414|#|dest|#|3|#|Stoi del Chegui 1:00$$$Sella della Marzola 2:10$$$Bivacco R. Bailoni 2:40
+2111257419|#|dest|#|3|#|Stoi del Chegui$$$Sella della Marzola$$$Bivacco R.Balo
+2111257425|#|dest|#|1|#|Borino 1:00

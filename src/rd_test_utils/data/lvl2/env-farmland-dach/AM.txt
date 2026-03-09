@@ -1,0 +1,39 @@
+AM_2132002474|#|None|#|farmyard|#|farmyard|#|76|#|31|#|0|#|mpoly::::poly:::ring:AM57-71W0PD VaPK VVPJ W0Pa WSQ6 XLPb XVPX XMPT XKPW WWPZ WWPT WHPJ W0PD
+AM_2430550904|#|None|#|farmyard|#|farmyard|#|70|#|70|#|0|#|mpoly::::poly:::ring:AM57-13IQ6a IN7P ID8J I38I I18T IB8U IQ8H JF8T JX7Y IV7B IW6b IQ6a
+AM_53722174|#|None|#|farmland|#|mpoly::::poly:::ring:AM39-12KYTA K4TW L8TW L0US LQUH MSTO LRTQ KYTA
+AM_53723074|#|None|#|farmland|#|mpoly::::poly:::ring:AM39-12NLRF MaRL O8S8 PARa NLRF
+AM_53746140|#|Reiter|#|farmyard|#|farm|#|184|#|272|#|2|#|mpoly::::poly:::ring:AM36-81OVIB O5IP N0IL LLKQ LWMZ LSPG MEP9 NHMV P0MF Q7JV QFIF OVIB
+AM_54276778|#|None|#|farmland|#|mpoly::::poly:::ring:AM18-93YBU7 X4V1 YYX2 AM32-130QXP 29YA 3RXb 3XWa 2TW7 22VX AM18-93a5VH Z5VS YBU7
+AM_54383004|#|None|#|farmland|#|mpoly::::poly:::ring:AM18-61D5BX D8CU CKDF CSFN DQG6 EEEB EADI ELCI D5BX
+AM_55522836|#|Brunner|#|farmyard|#|isolated_dwelling|#|49|#|69|#|0|#|mpoly::::poly:::ring:AM51-34F46I EQ6R EK7O ER8B F18C FW85 FL6U F46I
+AM_57091016|#|Staffels - Scaglioni|#|farmyard|#|farmyard|#|151|#|91|#|0|#|mpoly::::poly:::ring:AM37-34ZIH0 YGH8 YGHV YZHY YbI8 ZXI9 4410IE 09IW 0MJF 29I5 1KHA 34ZIH0
+AM_59761390|#|Sulè|#|farmyard|#|farmyard|#|56|#|78|#|0|#|mpoly::::poly:::ring:AM47-29ODL5 NSLL NYMO O9N7 OWN7 ObLX P8LO P2LG ODL5
+AM_65209308|#|None|#|farmland|#|mpoly::::poly:::ring:AM12-62IK8M IF97 IK9Z IIAW IRBE IMC1 I7CV HIB9 GYAN GO9M FQ9T FNAM GGC3 GPD6 FQF5 FaGa GVHF JOGA JZGD KNGT LFGD LVFN LPEP LBE6 MIDE LMC6 KbB6 JbAA J49T J68b IK8M
+AM_72586420|#|Gadner|#|farmyard|#|farmyard|#|54|#|56|#|0|#|mpoly::::poly:::ring:AM51-39G0P6 FFPL FFPU FRQA G1Q1 G5QA G6QO GBQK GUQG GVPQ GHPQ G0P6
+AM_72668222|#|Pfleger|#|farmyard|#|farmyard|#|60|#|86|#|0|#|mpoly::::poly:::ring:AM51-39L7P5 L7PD KTPD KYQ7 KBQA KPRF L3R8 LJQV LTQT LWQI LPQ3 LOP5 L7P5
+AM_73584436|#|Streitlhof|#|farmyard|#|farmyard|#|63|#|64|#|0|#|mpoly::::poly:::ring:AM51-39HVBO HBBU HACA HMCS HZCR INDB IaCY ILCJ I6BW HVBO
+AM_83695758|#|Tenner|#|farmyard|#|farmyard|#|77|#|56|#|0|#|mpoly::::poly:::ring:AM47-53398P 1K96 1WA5 259U 2J9P 2R9P 3I9B 3K91 3H8V 398P
+AM_84555984|#|Sompunt|#|farmyard|#|hamlet|#|79|#|52|#|0|#|mpoly::::poly:::ring:AM49-4489LF 7WLK 7PM0 80M1 81MJ 86MP 8VMS 9SMJ 9RLI 89LF
+AM_85018718|#|None|#|farmyard|#|farmyard|#|59|#|55|#|0|#|mpoly::::poly:::ring:AM63-14ObPG OIPR ONPa NTQH O2QY PCQ6 ObPG
+AM_85134816|#|Chesler|#|farmyard|#|hamlet|#|45|#|51|#|0|#|mpoly::::poly:::ring:AM49-93SRVW SHWA RaWM SDX8 T3WR T2WE T6W5 SbVZ SRVW
+AM_85222516|#|Borbeles|#|farmyard|#|farm|#|116|#|73|#|0|#|mpoly::::poly:::ring:AM63-22ZDNb Z6O9 YAOP XNP6 XDP5 X6PE XIPY Z8P5 ZRPA a3Oa 3202OO 22ZDNb
+AM_85265856|#|Le Maier|#|farmyard|#|farmyard|#|56|#|47|#|0|#|mpoly::::poly:::ring:AM63-21OZFa OEGC ORH7 P8H5 PVGT PJGP OZFa
+AM_85460754|#|Maurer|#|farmyard|#|farmyard|#|47|#|40|#|0|#|mpoly::::poly:::ring:AM63-72WMaH 73WL01 WU08 X80D XH07 72XTaY WMaH
+AM_85461560|#|Hirsch am Bach|#|farmyard|#|isolated_dwelling|#|69|#|75|#|0|#|mpoly::::poly:::ring:AM63-82QXEC QOEL QRF1 QDF8 PaF8 P9FQ PNGB QCFZ QMFZ R2FO R0EL QXEC
+AM_85464360|#|Überstein|#|farmyard|#|farm|#|80|#|65|#|0|#|mpoly::::poly:::ring:AM63-73GT8Z GI9M HBAO HTA3 IN9M HQ8a GT8Z
+AM_85465938|#|None|#|farmyard|#|farmyard|#|89|#|64|#|0|#|mpoly::::poly:::ring:AM63-923SPA 35QM 4KQQ 5IQa 4aPS 3SPA
+AM_85478092|#|Lahnhäusl|#|farmyard|#|farmyard|#|64|#|50|#|0|#|mpoly::::poly:::ring:AM63-92508J 488L 408V 3U9E 459V 4a9S 5I9H 5F8Y 598M 508J
+AM_85478094|#|None|#|farmyard|#|farmyard|#|69|#|91|#|0|#|mpoly::::poly:::ring:AM63-926L50 5V5N 646D 5B6b 5M7F 6Z6A 745V 6L50
+AM_85478096|#|Oberguggenberg|#|farmyard|#|farmyard|#|84|#|80|#|0|#|mpoly::::poly:::ring:AM63-91CSYZ BJZ5 BOZQ ATa3 B7b1 BHaW C3aY C6b1 CTaR CEZb CbZS CSYZ
+AM_85478098|#|Unterguggenberg|#|farmyard|#|farmyard|#|187|#|146|#|1|#|mpoly::::poly:::ring:AM63-91KOXY KAY1 JYYG JBY6 HbYZ I2Za GWa1 GKaD GNaR 92HN0G Ia0M 91J8aa JBa9 LAZ4 LHYX LHYD L1Xa KOXY
+AM_85478768|#|Gasteig|#|farmyard|#|farm|#|56|#|87|#|0|#|mpoly::::poly:::ring:AM63-927SaR 936W0D 7V1W 8C1H 8C11 8706 927SaR
+AM_85479648|#|Erschbaum|#|farmyard|#|farm|#|97|#|80|#|0|#|mpoly::::poly:::ring:AM63-93BBY4 ANY5 AMYO A5YP A4ZE AHZE BJa8 CQZX CJZ4 CMYC C0YA BDYL BBY4
+AM_85484462|#|St. Martin - San Martino|#|farmyard|#|village|#|70|#|71|#|0|#|mpoly::::poly:::ring:AM63-94RaBR RTBU ROBb RHCU SQDM TACT SFBY RaBR
+AM_85484464|#|Hofstätter|#|farmyard|#|village|#|55|#|52|#|0|#|mpoly::::poly:::ring:AM63-94PRAO P0AP OXBY PIBb QDBV Q4Aa PRAO
+AM_85484466|#|Mair zu Gasteig|#|farmyard|#|village|#|77|#|83|#|0|#|mpoly::::poly:::ring:AM66-1413DB AM63-94a4DN ZWDL ZSEQ AM66-140FFB 0bFI 1CF9 1KEb 1NEM 1HDS 13DB
+AM_85952064|#|Niedervintl - Vandoies di Sotto|#|farmyard|#|village|#|111|#|104|#|0|#|mpoly::::poly:::ring:AM65-33Y0PJ WaQQ XQRF XORI YES0 YXS9 ZXQJ YAPV Y0PJ
+AM_85952066|#|None|#|farmyard|#|farmyard|#|84|#|106|#|0|#|mpoly::::poly:::ring:AM65-437FHR 5TK0 65KF 6EK9 6SKJ 7HJB 7aI4 7MHT 7FHR
+AM_85963024|#|Gatscher|#|farmyard|#|farm|#|143|#|80|#|0|#|mpoly::::poly:::ring:AM65-44RH6C R477 QR7A PZ7V RK8D S97X T18F TQ7Q S76N RH6C
+AM_85969544|#|Pirgstaller|#|farmyard|#|farm|#|90|#|87|#|0|#|mpoly::::poly:::ring:AM65-46CQB3 CKBI CABI C3BF CHCB D5D6 E0DE EHCb EHCC ECC7 E4C8 DWC4 DHBT D2BA CQB3
+AM_85969870|#|Gfaller|#|farmyard|#|farm|#|92|#|89|#|0|#|mpoly::::poly:::ring:AM65-46S6F3 RPFE RJFS RZGP SVH9 TAHG TRH6 TZGK TVG9 T7G7 T1FO T2FC S6F3
+AM_85992788|#|Untergarten|#|farmyard|#|farm|#|82|#|91|#|0|#|mpoly::::poly:::ring:AM66-41BXFQ BOFZ C1GO C3HD C8HL CNI0 CVI3 D9I2 DUHX DQGR DJG8 D4GB CMG7 C9G0 BXFQ

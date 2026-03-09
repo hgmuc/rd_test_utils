@@ -1,0 +1,37 @@
+269348458|#|17|#|Pizza|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1450325|#|11.2003238|#|pt:AM15-32R1US
+270160758|#|17|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0670041|#|11.1388429|#|pt:AM11-68FHIS
+430675311|#|50|#|Chicken Fast Food|#|None|#|None|#|None|#|Trento|#|Via Andrea Pozzo|#|13|#|38122|#|IT|#|Mo-Su 11:00-03:00|#|46.0696196|#|11.1199679|#|pt:AM11-67N4I0
+434228673|#|10|#|PizzaBell|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.0486628|#|11.1458744|#|pt:AM11-48Y2X1
+538344435|#|384|#|Pizzaroxi|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4838704|#|11.3436729|#|pt:AM36-4170KX
+557149903|#|10|#|Pizza Pazza|#|None|#|None|#|None|#|Trento|#|Via Brescia|#|8|#|38122|#|IT|#|Tu-Fr 18:00-21:30; Sa,Su 18:00-21:30|#|46.070781|#|11.1122636|#|pt:AM11-67QK2D
+557150055|#|93|#|Piadineria L'angolo tondo|#|None|#|None|#|None|#|Trento|#|Piazza della Portella|#|11|#|38122|#|IT|#|Mo-Fr 11:30-14:30, Mo-Th 18:30-21:30|#|46.0693724|#|11.1186442|#|pt:AM11-67MFFC
+557150099|#|10|#|San Michele Pizza|#|None|#|None|#|None|#|Trento|#|Via Camillo Benso Cavour|#|1|#|38122|#|IT|#|None|#|46.0684658|#|11.1201696|#|pt:AM11-67JSIG
+557150130|#|10|#|Pizza Cavour|#|None|#|None|#|None|#|Trento|#|Via Camillo Benso Cavour|#|22|#|38122|#|IT|#|Mo-Sa 11:00-23:00|#|46.0681707|#|11.1203557|#|pt:AM11-67IXIU
+557197349|#|10|#|5 Sensi|#|None|#|None|#|None|#|Trento|#|Piazza Adamo d'Arogno|#|13|#|38122|#|IT|#|None|#|46.0666824|#|11.1209908|#|pt:AM11-67EJK3
+557992526|#|1270|#|La Perla d'Oriente|#|None|#|None|#|None|#|Trento|#|Largo Nazario Sauro|#|12|#|38122|#|IT|#|Mo-Su 10:30-14:30,17:30-22:30|#|46.0748394|#|11.1246081|#|pt:AM11-7729RG
+562715342|#|10|#|Pizza Granda|#|None|#|None|#|None|#|Lavis|#|Via Giacomo Matteotti|#|33|#|38015|#|IT|#|Mo-Fr 11:00-15:00,18:00-23:00; Sa,Su 17:00-23:00|#|46.1389748|#|11.1127669|#|pt:AM14-379B3E
+562715347|#|10|#|Lavis Pizza|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.1417257|#|11.1077894|#|pt:AM14-36HDUW
+664040755|#|10|#|Arno's pizza al chiosco|#|None|#|None|#|None|#|Bolzano - Bozen|#|Viale Trieste - Triester Straße|#|19b|#|39100|#|None|#|Tu-Su 11:00-23:00|#|46.4920382|#|11.3447603|#|pt:AM36-41UZN2
+769077783|#|410|#|La Piadineria Romagnola|#|None|#|None|#|None|#|Bolzano - Bozen|#|Via Dalmazia - Dalmatienstraße|#|77c|#|39100|#|None|#|None|#|46.4919017|#|11.3339391|#|pt:AM36-41UK18
+769077788|#|17|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4918978|#|11.3446262|#|pt:AM36-41UKMT
+769077797|#|361|#|Rosticceria Al Papero Giallo|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4921444|#|11.3327459|#|pt:AM35-49V9a6
+803652403|#|17|#|Pit Stop|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|None|#|46.4214242|#|11.2522734|#|pt:AM32-854YNB
+814239901|#|10|#|Pizza Granda|#|None|#|None|#|None|#|Trento|#|Via Alessandro Manzoni|#|33a|#|38122|#|IT|#|Mo-Fr 11:00-15:00, We-Su 18:00-22:00|#|46.0728256|#|11.1250556|#|pt:AM11-67WJSD
+859560045|#|93|#|Mavi's Lounge Burger|#|None|#|None|#|https://mavisloungeburger.it|#|None|#|Piazza Scopoli|#|2|#|None|#|None|#|Mo, Tu 19:00-22:30; We-Su 12:00-14:00, 19:00-22:30|#|46.2908806|#|11.4603251|#|pt:AM19-67KBW6
+865298466|#|1270|#|Top Rice|#|None|#|None|#|None|#|Trento|#|Via Andrea Pozzo|#|1|#|38122|#|IT|#|Mo-Sa 11:30-14:30;, 18:30-22:30 Wed Off|#|46.069969|#|11.11988|#|pt:AM11-67O5HV
+867377313|#|50|#|Nawab FastFood|#|None|#|None|#|None|#|Trento|#|Via Andrea Pozzo|#|5|#|38122|#|IT|#|None|#|46.0698806|#|11.1199023|#|pt:AM11-67NYHX
+867377379|#|17|#|Fam&Gola|#|None|#|None|#|None|#|Trento|#|Via Andrea Pozzo|#|7|#|38122|#|IT|#|None|#|46.0698318|#|11.1199145|#|pt:AM11-67NSHY
+867438687|#|10|#|Non solo pizza|#|None|#|None|#|None|#|Trento|#|Via Santa Croce|#|82|#|38122|#|IT|#|None|#|46.0632016|#|11.1235297|#|pt:AM11-674CP9
+870463242|#|10|#|Pizza Granda|#|None|#|None|#|None|#|Mezzolombardo|#|Piazza Vittoria|#|1c|#|38017|#|IT|#|Mo-Sa 11:30-14:30, 18:00-23:30; Su 18:00-23:30|#|46.213594|#|11.0900878|#|pt:AM14-95AYWI
+874501397|#|50|#|Instambul Kebab|#|None|#|None|#|None|#|Trento|#|Via della Prepositura|#|72|#|38122|#|IT|#|None|#|46.0688304|#|11.118541|#|pt:AM11-67KVF4
+877620835|#|17|#|Capatoast|#|None|#|None|#|None|#|Trento|#|Via Santa Croce|#|42|#|38122|#|IT|#|Mo-Sa 11:00-15:00, 18:00-21:00|#|46.064073|#|11.1233316|#|pt:AM11-676XOW
+885639430|#|10|#|Lo Sfizio|#|None|#|None|#|None|#|Mezzolombardo|#|Via Arturo De Varda|#|3|#|38017|#|IT|#|Mo off|#|46.2118424|#|11.0908043|#|pt:AM14-955TXZ
+893551341|#|384|#|Pizza Snack|#|None|#|None|#|None|#|Trento|#|Via Aosta|#|8|#|None|#|IT|#|None|#|46.0566929|#|11.1278346|#|pt:AM11-57LGY0
+896919760|#|17|#|BiciGrill Levico|#|None|#|None|#|None|#|None|#|Via per Santa Giuliana|#|10|#|None|#|None|#|None|#|46.0018814|#|11.3096253|#|pt:AM12-185JR5
+945470844|#|309|#|Istanbul Kebap & Pizzeria|#|None|#|None|#|None|#|Cles|#|Via Guglielmo Marconi|#|6|#|38023|#|IT|#|None|#|46.3651442|#|11.0359744|#|pt:AM31-32KXZB
+959911033|#|10|#|Benny|#|None|#|None|#|None|#|Trento|#|Via Renato Lunelli|#|20|#|38121|#|IT|#|Mo-Sa 11:00-14:00, Mo-Su 17:30-22:00|#|46.0924869|#|11.1180428|#|pt:AM11-87HTE3
+969087883|#|50|#|PAK-Kebab|#|None|#|None|#|None|#|Trento|#|Piazza Santa Maria Maggiore|#|17|#|38122|#|IT|#|None|#|46.068538|#|11.1201283|#|pt:AM11-67JaIC
+975288320|#|17|#|Bruschetteria Redoro|#|None|#|None|#|None|#|Trento|#|Via Rodolfo Belenzani|#|27|#|38122|#|IT|#|Mo-Sa 08:30-19:00; Su 10:30-17:30|#|46.0686067|#|11.1213763|#|pt:AM11-67K6KX
+976746615|#|10|#|Pizza Roby|#|None|#|None|#|None|#|Trento|#|Via Monsignor Celestino Endrici|#|9|#|38122|#|IT|#|Mo off; Tu-Sa 11:00-14:00,17:30-22:00; Su 17:00-22:00|#|46.0605402|#|11.1218114|#|pt:AM11-57WQLT
+976794057|#|309|#|Perla Lab|#|None|#|None|#|None|#|Trento|#|Via Rodolfo Belenzani|#|66|#|38122|#|IT|#|Mo,We-Su 10:00-21:00|#|46.0680504|#|11.1212681|#|pt:AM11-67IKKO
+991704167|#|10|#|Ibris focacce e pizze|#|None|#|None|#|None|#|Trento|#|Via Camillo Benso Cavour|#|36|#|38122|#|IT|#|Mo-Th 11:00-24:00; Su off, Fr,Sa 11:00-02:00|#|46.067942|#|11.1206432|#|pt:AM11-67I8JE
