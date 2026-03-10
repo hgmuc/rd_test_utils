@@ -1,23 +1,34 @@
-import pytest
+#import pytest
 import pandas as pd
 from pathlib import Path
 # Note: We import the fixtures directly for testing, 
 # but in a real suite, pytest would find them via entry points or conftest.
-from rd_test_utils.fixtures.lvl2 import (
-    lvl2_base_dir,
-    lvl2_base_dir_str,
-    admin8_csv,
-    admin8_df,
-    add_features_shop
-)
+#from rd_test_utils.fixtures.lvl2 import (
+#    lvl2_base_dir,
+#    lvl2_base_dir_str,
+#    admin8_csv,
+#    admin8_df,
+#    add_features_shop
+#)
 
 def test_fixtures_path_resolution(lvl2_base_dir, lvl2_base_dir_str):
     """Verify paths are absolute and point to the internal data directory."""
     assert lvl2_base_dir.is_absolute()
     print("lvl2_base_dir", str(lvl2_base_dir))
     # C:\03_PythonLibs\rd_test_utils\src\rd_test_utils\fixtures\data\lvl2
-    assert "rd_test_utils\\data\\lvl2" in str(lvl2_base_dir)
+    #assert "rd_test_utils\\data\\lvl2" in str(lvl2_base_dir)
+    #assert str(lvl2_base_dir) == lvl2_base_dir_str
+    
+    # .parts returns a tuple of all path components (e.g., ('src', 'rd_test_utils', 'data', 'lvl2'))
+    # This ignores whether the separator is \ or /
+    path_parts = lvl2_base_dir.parts
+    
+    # We check that the last three components are exactly what we expect
+    assert path_parts[-3:] == ("rd_test_utils", "data", "lvl2")
+    
+    # Verify the string version matches the Path version
     assert str(lvl2_base_dir) == lvl2_base_dir_str
+
 
 def test_admin8_file_structure(admin8_csv):
     """Verify the admin8 CSV path is correct and file exists."""
