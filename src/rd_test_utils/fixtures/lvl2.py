@@ -2,13 +2,8 @@ import pytest
 import pandas as pd
 from pathlib import Path
 
-
-import pytest
-import pandas as pd
-from pathlib import Path
-
 # Helper to find the package data directory relative to this file
-DATA_ROOT = Path(__file__).resolve().parent / "data" / "lvl2"
+DATA_ROOT = Path(__file__).resolve().parent.parent / "data" / "lvl2"
 
 @pytest.fixture(scope="session")
 def lvl2_base_dir() -> Path:
@@ -29,12 +24,12 @@ def admin8_csv() -> str:
 def admin8_df(admin8_csv: str) -> pd.DataFrame:
     """Loads the admin8 CSV into a pandas DataFrame."""
     # Reusing the admin8_csv fixture for consistency
-    return pd.read_csv(admin8_csv, sep="\t", index_col=0)
+    return pd.read_csv(admin8_csv, sep="\t", index_col=0, low_memory=False)
 
 @pytest.fixture(scope="session")
 def add_features_shop() -> str:
     """Returns the string path to the AM shop feature file."""
-    return str(DATA_ROOT / "add-features-dach" / "shop" / "AM.txt")
+    return str(DATA_ROOT / "add-features-dach" / "shops" / "AM.txt")
 
 '''
 @pytest.fixture(scope="session")

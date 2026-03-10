@@ -1,11 +1,11 @@
 import pytest
 from pathlib import Path
 
+DATA_ROOT = Path(__file__).resolve().parent.parent / "data"
 
 @pytest.fixture(scope="session")
 def data_base_path():
-    BASE_DIR = Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd()
-    return f"{BASE_DIR}/data"
+    return DATA_ROOT
 
 @pytest.fixture(scope="session")
 def data_base_path_prod():
