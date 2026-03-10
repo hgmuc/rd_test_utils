@@ -1,7 +1,6 @@
 import pytest
 from pathlib import Path
 from basic_helpers.file_helper import do_ungzip_pkl #, do_unpickle
-from lvl2_env_api.env_config import load_rev_tagset_dict
 
 # Helper to find the package data directory relative to this file
 DATA_ROOT = Path(__file__).resolve().parent.parent / "data" / "lvl1"
@@ -25,12 +24,14 @@ def _get_rev_tagset_dict_path():
 
 @pytest.fixture(scope="session")
 def tagset_dict():
+    print("INSIDE tagset_dict()", type(_load_data("TAGSET_DICT")))
     return _load_data("TAGSET_DICT")
 
 @pytest.fixture(scope="session")
-def rev_tagset_dict():
+def rev_tagset_dict(tagset_dict):
     #ways_base_path = f"C:/01_AnacondaProjects/osmium/lvl1"
-    return load_rev_tagset_dict(_get_rev_tagset_dict_path())
+    print("INSIDE rev_tagset_dict()", type(tagset_dict))
+    return {v: k for k, v in tagset_dict.items()}
 
 
 @pytest.fixture(scope="session")

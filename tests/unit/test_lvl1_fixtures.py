@@ -1,6 +1,5 @@
-import pytest
-from unittest.mock import patch, MagicMock
-from pathlib import Path
+from unittest.mock import patch #, MagicMock
+#from pathlib import Path
 from rd_test_utils.fixtures.lvl1 import _get_rev_tagset_dict_path
 from rd_test_utils.fixtures.lvl1 import DATA_ROOT
 
@@ -28,6 +27,14 @@ def test_tagset_dict_logic(mock_ungzip, tmp_path):
     mock_ungzip.assert_called_once_with(str(gz_file))
 
 
+def test_tagset_dict(tagset_dict):  # type(ignore)
+    print("tagset_dict", type(tagset_dict))
+    assert isinstance(tagset_dict, dict)
+    assert len(tagset_dict) > 0
+    assert max(tagset_dict.values()) > 0
+    assert isinstance(list(tagset_dict)[0], tuple)
+
+
 def test_rev_tagset_dict_path_logic():
     """
     Verify the path logic specifically. 
@@ -36,20 +43,19 @@ def test_rev_tagset_dict_path_logic():
     expected_path = "C:/01_AnacondaProjects/osmium/lvl1"
     assert _get_rev_tagset_dict_path() == expected_path
 
-@patch("rd_test_utils.fixtures.lvl1.load_rev_tagset_dict")
-def test_rev_tagset_dict_logic_integration(mock_load):
+
+def test_rev_tagset_dict_logic_integration(rev_tagset_dict):
     """
     If you want to test the fixture behavior, 
     pass it as an argument to the test.
     """
-    mock_load.return_value = {"status": "mocked"}
+    print("rev_tagset_dict", type(rev_tagset_dict))
+    assert isinstance(rev_tagset_dict, dict)
+    assert len(rev_tagset_dict) > 0
+    assert max(rev_tagset_dict) > 0
+    assert isinstance(rev_tagset_dict[max(rev_tagset_dict)], tuple)
+    assert len(rev_tagset_dict[max(rev_tagset_dict)]) > 0
     
-    # Note: To test the actual fixture, you'd usually do an integration 
-    # test, but for unit testing the logic, the helper approach above is safer.
-    from rd_test_utils.fixtures.lvl1 import _get_rev_tagset_dict_path
-    path = _get_rev_tagset_dict_path()
-    
-    assert path == "C:/01_AnacondaProjects/osmium/lvl1"
 
 '''
 @patch("rd_test_utils.fixtures.lvl1.load_rev_tagset_dict")
