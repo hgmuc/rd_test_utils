@@ -24,7 +24,7 @@ def _get_rev_tagset_dict_path():
 
 @pytest.fixture(scope="session")
 def tagset_dict():
-    print("INSIDE tagset_dict()", type(_load_data("TAGSET_DICT")))
+    print("INSIDE tagset_dict()")
     return _load_data("TAGSET_DICT")
 
 @pytest.fixture(scope="session")
@@ -33,6 +33,16 @@ def rev_tagset_dict(tagset_dict):
     print("INSIDE rev_tagset_dict()", type(tagset_dict))
     return {v: k for k, v in tagset_dict.items()}
 
+@pytest.fixture(scope="session")
+def nodes_tagset_dict():
+    print("INSIDE nodes_tagset_dict()")
+    return _load_data("NODES_TAGSETS_DICT")
+
+@pytest.fixture(scope="session")
+def rev_nodes_tagset_dict(nodes_tagset_dict):
+    #ways_base_path = f"C:/01_AnacondaProjects/osmium/lvl1"
+    print("INSIDE rev_nodes_tagset_dict()", type(nodes_tagset_dict))
+    return {v: k for k, v in nodes_tagset_dict.items()}
 
 @pytest.fixture(scope="session")
 def rev_tc_combi_dict():
